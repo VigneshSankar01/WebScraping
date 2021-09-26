@@ -1,0 +1,751 @@
+,Title,Movie Rating,Director,Release Year,Genres,Cast,TagLine,Top Review,Meta Score
+0,Shingeki no kyojin,9.0,Yûki Kaji,2013,",Animation,Action,Adventure,Drama,Fantasy,Horror","Josh Grelle,Yûki Kaji,Marina Inoue",The face of humanity's extinction. (season 1),Legendary show.,0.0
+1,American Horror Stories,6.1,Brad Falchuk,2021,",Drama,Horror,Thriller","Sierra McCormick,Paris Jackson,Merrin Dungey",A,What even is this,0.0
+2,Black Widow,6.8,Cate Shortland,2021,",Action,Adventure,Sci-Fi","Jac Schaeffer,Ned Benson,Scarlett Johansson",She's Done Running From Her Past.,MCU Version of a Filler Episode,67.0
+3,What If...?,7.6,Jeffrey Wright,2021,",Animation,Action,Adventure,Fantasy","Matthew Wood,Jeffrey Wright,Terri Douglas",Enter the Multiverse of infinite possibilities,"Marvel, please take your cue from the original series!",0.0
+4,Afterlife of the Party,5.8,Stephen Herek,2021,",Comedy,Drama,Fantasy,Romance","Victoria Justice,Midori Francis,Robyn Scott",She's got one more chance to fix the life she left in pieces.,Hope,0.0
+5,Last Night in Soho,7.4,Edgar Wright,2021,",Drama,Horror,Mystery,Thriller","Krysty Wilson-Cairns,Anya Taylor-Joy,Thomasin McKenzie",Information Unavailable,Very Unique Movie,67.0
+6,Venom: Let There Be Carnage,7.5,Andy Serkis,2021,",Action,Sci-Fi,Thriller","Tom Hardy,Tom Hardy,Woody Harrelson","Rated PG-13 for intense sequences of violence and action, some strong language, disturbing material and suggestive references",np.nan,0.0
+7,The Blacklist,8.0,Jon Bokenkamp,2013,",Crime,Drama,Mystery,Thriller","Megan Boone,Diego Klattenhoff,Jon Bokenkamp",Never trust a criminal...until you have to. (season 1),"""Spader's Show""",0.0
+8,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,6.1,Cathy Yan,2020,",Action,Adventure,Comedy,Crime","Paul Dini,Bruce Timm,Margot Robbie",Mind Over Mayhem,Worth a watch,60.0
+9,The Matrix,8.7,Lana Wachowski,1999,",Action,Sci-Fi","Lilly Wachowski,Lana Wachowski,Keanu Reeves",Free your mind,"Immensely entertaining, intriguingly philosophical and just about one of the best films ever made!",73.0
+10,Bones,7.8,Hart Hanson,2005,",Comedy,Crime,Drama,Mystery,Romance","David Boreanaz,Michaela Conlin,Hart Hanson","To Unravel A Murder, You Have To Strip It To The Bone.",So good that you are going to feel it in the bones,0.0
+11,Bones,7.8,Hart Hanson,2005,",Comedy,Crime,Drama,Mystery,Romance","David Boreanaz,Michaela Conlin,Hart Hanson","To Unravel A Murder, You Have To Strip It To The Bone.",So good that you are going to feel it in the bones,0.0
+12,Bones,7.8,Hart Hanson,2005,",Comedy,Crime,Drama,Mystery,Romance","David Boreanaz,Michaela Conlin,Hart Hanson","To Unravel A Murder, You Have To Strip It To The Bone.",So good that you are going to feel it in the bones,0.0
+13,WandaVision,8.0,Jac Schaeffer,2021,",Action,Comedy,Drama,Fantasy,Sci-Fi","Paul Bettany,Kathryn Hahn,Jac Schaeffer",Marvel Studios presents a visionary new age of television.,A great show!,0.0
+14,Boku no hîrô akademia,8.4,Daiki Yamashita,2016,",Animation,Action,Adventure,Comedy,Fantasy,Sci-Fi","Ayane Sakura,Daiki Yamashita,Nobuhiko Okamoto",16,my hero academy is a masterpiece.,0.0
+15,Stranger Things,8.7,Matt Duffer,2016,",Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller","Millie Bobby Brown,Finn Wolfhard,Winona Ryder",The world is turning upside down. (Season 1),Season 3 feels like a parody of the show.,0.0
+16,Knives Out,7.9,Rian Johnson,2019,",Comedy,Crime,Drama,Mystery,Thriller","Daniel Craig,Chris Evans,Ana de Armas",Everyone has a motive. No one has a clue.,Nice,82.0
+17,Animal Kingdom,8.2,Jonathan Lisco,2016,",Crime,Drama","Ben Robson,Jake Weary,Jonathan Lisco",Bad is bred,Just a gritty ride,0.0
+18,Big Mouth,7.9,Jennifer Flackett,2017,",Animation,Comedy,Romance","Nick Kroll,Nick Kroll,John Mulaney",Coming of age all over the place.,Starts out strong and ends on a whimper,0.0
+19,Hawkeye,7.5,Jeremy Renner,2021,",Action,Adventure,Crime,Drama,Mystery,Sci-Fi,Add content advisory","Florence Pugh,Jeremy Renner,Hailee Steinfeld","This Holiday Season, The Best Gifts Come with a Bow.",np.nan,0.0
+20,Happy Endings,7.7,David Caspe,2011,",Comedy,Romance","Elisha Cuthbert,Zachary Knighton,David Caspe",Was it good for you?,Phenomenal!!!,0.0
+21,Breaking Bad,9.4,Vince Gilligan,2008,",Crime,Drama,Thriller","Aaron Paul,Anna Gunn,Vince Gilligan","In the no-holds-barred world of Walt White, the end justifies the extreme. (season 2)",Best TV show ever made.,0.0
+22,Scenes from a Marriage,7.5,Hagai Levi,2021,",Drama","Oscar Isaac,Sophia Kopera,Hagai Levi",TV-MA,if you know people like this you need new friends,0.0
+23,The Batman,7.5,Matt Reeves,2022,",Action,Crime,Drama,Add content advisory","Bob Kane,Bill Finger,Andy Serkis",Information Unavailable,np.nan,0.0
+24,Y: The Last Man,6.5,Diane Lane,2021,",Action,Adventure,Drama,Sci-Fi","Ben Schnetzer,Diane Lane,Ashley Romans",TV-14,They don't know how to make a show,0.0
+25,A Quiet Place Part II,7.3,John Krasinski,2020,",Drama,Horror,Sci-Fi,Thriller","Bryan Woods,Scott Beck,Emily Blunt",Silence is Not Enough,"Better than the first movie, in my opinion!",71.0
+26,Zack Snyder's Justice League,8.1,Zack Snyder,2021,",Action,Adventure,Fantasy,Sci-Fi","Joe Shuster,Zack Snyder,Henry Cavill",Us United,"Incredible, far better than previous cut",54.0
+27,The Flash,7.6,Greg Berlanti,2014,",Action,Adventure,Drama,Sci-Fi","Andrew Kreisberg,Grant Gustin,Candice Patton",Discover what makes a hero (Season 1),Excellent start but fades away..,0.0
+28,Black Panther,7.3,Ryan Coogler,2018,",Action,Adventure,Sci-Fi","Joe Robert Cole,Stan Lee,Chadwick Boseman",Long live the king.,"I liked this one, but..",88.0
+29,Suits,8.4,Aaron Korsh,2011,",Comedy,Drama","Patrick J. Adams,Meghan Markle,Aaron Korsh",Two lawyers. One degree. (season 1),"An Intelligent, Sparkling New Television Series",0.0
+30,Clickbait,7.3,Tony Ayres,2021,",Crime,Drama,Mystery,Thriller","Zoe Kazan,Betty Gabriel,Phoenix Raei",Father. Husband. Brother. Liar?,Went a little far trying to make the twists,0.0
+31,Midsommar,7.1,Ari Aster,2019,",Drama,Horror,Mystery,Thriller","Florence Pugh,Jack Reynor,Vilhelm Blomgren",Let the festivities begin,This movie was a trip,72.0
+32,The End of the F***ing World,8.1,Jessica Barden,2017,",Adventure,Comedy,Crime,Drama,Romance,Thriller","Steve Oram,Jessica Barden,Alex Lawther",18+,When silence really speaks to you,0.0
+33,The Sopranos,9.2,David Chase,1999,",Crime,Drama","Lorraine Bracco,Edie Falco,David Chase","Made in America. (season 6, part 2)",A true classic,0.0
+34,Naruto: Shippûden,8.6,Masashi Kishimoto,2007,",Animation,Action,Adventure,Comedy,Drama,Fantasy","Maile Flanagan,Kate Higgins,Masashi Kishimoto",The destruction of the Hidden Leaf Village begins.,Genuinely AMAZINGGG!!!!,0.0
+35,Daredevil,8.6,Drew Goddard,2015,",Action,Crime,Drama,Fantasy,Sci-Fi,Thriller","Vincent D'Onofrio,Deborah Ann Woll,Drew Goddard",The man without fear,''Daredevil'' the real ''Dark Knight'' of Marvel.,0.0
+36,Modern Family,8.4,Steven Levitan,2009,",Comedy,Drama,Romance","Ed O'Neill,Sofía Vergara,Julie Bowen","One big (straight, gay, multi-cultural, traditional) happy family.","Laugh-out-loud ensemble comedy; a ""The Office""/""Arrested Development"" hybrid (almost...)",0.0
+37,Vacation Friends,6.3,Clay Tarver,2021,",Adventure,Comedy","Tim Mullen,Clay Tarver,Lil Rel Howery",They came home with some extra baggage.,I had fun,49.0
+38,Westworld,8.6,Lisa Joy,2016,",Drama,Mystery,Sci-Fi","Evan Rachel Wood,Jeffrey Wright,Ed Harris",Where life begins. (Season 1),"Fight scenes, fight scenes, fight scenes...",0.0
+39,Dune,6.4,David Lynch,1984,",Action,Adventure,Sci-Fi","David Lynch,Kyle MacLachlan,Virginia Madsen","It is a world where sandworms 1,000 feet long guard creation's greatest treasure - the spice that prolongs life. And enables the mind to fold space and slow time. Where a prophecy will be fulfilled. And a young leader with incredible powers will emerge to command an army of five million warriors in the final battle for control of a universe and its source of ultimate power. The planet called Dune.",Outland Empire,39.0
+40,Dirty Work,6.4,Bob Saget,1998,",Comedy","Norm MacDonald,Fred Wolf,Norm MacDonald",Revenge is a dish best served DIRTY.,They don't make them like this anymore.,0.0
+41,Malignant,6.3,James Wan,2021,",Crime,Horror,Mystery,Thriller","Ingrid Bisu,Akela Cooper,Annabelle Wallis",A new vision of terror.,80's horror is back! For better and for worse...,51.0
+42,Old,5.8,M. Night Shyamalan,2021,",Drama,Horror,Mystery,Thriller","Pierre-Oscar Lévy,Frederik Peeters,Gael García Bernal",It's only a matter of time.,Same Old tricks,55.0
+43,Nine Perfect Strangers,7.2,John-Henry Butterworth,2021,",Drama,Mystery,Thriller","Nicole Kidman,Melissa McCarthy,Michael Shannon",Welcome to Tranquillum,Michael Shannon has some incredible range.,0.0
+44,Villains,6.2,Dan Berk,2019,",Comedy,Drama,Horror,Thriller","Dan Berk,Robert Olsen,Bill Skarsgård",Two bad people are about to meet two worse people.,To Quote Hunter S. Thompson...,63.0
+45,Doom Patrol,7.9,Jeremy Carver,2019,",Action,Adventure,Comedy,Drama,Mystery,Sci-Fi","Diane Guerrero,Matt Bomer,Jeremy Carver",TV-MA,Astonishingly good!,0.0
+46,Boku no hîrô akademia,8.4,Daiki Yamashita,2016,",Animation,Action,Adventure,Comedy,Fantasy,Sci-Fi","Ayane Sakura,Daiki Yamashita,Nobuhiko Okamoto",16,my hero academy is a masterpiece.,0.0
+47,NCIS: Naval Criminal Investigative Service,7.7,Donald P. Bellisario,2003,",Action,Crime,Drama,Mystery,Thriller","Mark Harmon,David McCallum,Sean Murray",16,So sad a wonderful show is sinking,0.0
+48,House M.D.,8.7,David Shore,2004,",Drama,Mystery","Omar Epps,Robert Sean Leonard,David Shore",Genius has side effects. [UK],Hugh Laurie,0.0
+49,The Walking Dead,8.2,Frank Darabont,2010,",Drama,Horror,Thriller","Norman Reedus,Melissa McBride,Frank Darabont",Fight the dead. Fear the living.,Love Show BUT The Writers/Producers Need To Get Back To War Against Walkers!!!,0.0
+50,Endeavour,8.6,Shaun Evans,2012,",Crime,Drama,Mystery","James Bradshaw,Shaun Evans,Roger Allam","""A crusade in search of justice, risking everything for the truth ...""",Endeavour Magic,0.0
+51,Love Life,7.5,Sam Boyd,2020,",Comedy,Romance","Zoe Chao,Peter Vack,Sam Boyd",TV-MA,"Not revolutionary, but enjoyable",0.0
+52,Star Trek: The Next Generation,8.6,Gene Roddenberry,1987,",Action,Adventure,Mystery,Sci-Fi","Brent Spiner,Jonathan Frakes,Gene Roddenberry",New Stars. New Stories. New Worlds To Explore.,A wonderful series,0.0
+53,The Simpsons,8.6,James L. Brooks,1989,",Animation,Comedy","Sam Simon,Dan Castellaneta,Nancy Cartwright","On Your Marks, Get Set, D'Oh!",No longer that great,0.0
+54,The Boss Baby: Family Business,5.9,Tom McGrath,2021,",Animation,Adventure,Comedy,Family,Fantasy","Tom McGrath,Michael McCullers,Alec Baldwin",Playtime is over.,Undoubted,40.0
+55,Dune,8.5,Denis Villeneuve,2021,",Action,Adventure,Drama,Sci-Fi","Denis Villeneuve,Eric Roth,Timothée Chalamet","Beyond fear, destiny awaits.",This is only the beginning!,75.0
+56,American Horror Story,8.0,Brad Falchuk,2011,",Drama,Horror,Thriller","Lady Gaga,Kathy Bates,Angela Bassett",Get committed,finally a good haunted house story,0.0
+57,Jungle Cruise,6.6,Jaume Collet-Serra,2021,",Action,Adventure,Comedy,Fantasy","Glenn Ficarra,John Requa,Dwayne Johnson",UA,jungle ride,50.0
+58,Avengers: Endgame,8.4,Anthony Russo,2019,",Action,Adventure,Drama,Sci-Fi","Christopher Markus,Stephen McFeely,Stan Lee",Avenge the fallen.,The ending made all 22 movies worth it,78.0
+59,Fear the Walking Dead,6.9,Dave Erickson,2015,",Drama,Horror,Sci-Fi,Thriller","Kim Dickens,Frank Dillane,Cliff Curtis",Fear begins here. (Season 1),my opinion,0.0
+60,Ghosts,8.2,Lolly Adefope,2019,",Comedy,Fantasy","Simon Farnaby,Lolly Adefope,Mathew Baynton",It's a live-in nightmare,"Fantastic, funny, silly",0.0
+61,Friends,8.8,David Crane,1994,",Comedy,Romance","Jennifer Aniston,Courteney Cox,Lisa Kudrow",You can never have enough Friends!,Where are YOUR Friends?,0.0
+62,The Guilty,6.2,Antoine Fuqua,2021,",Crime,Drama,Thriller","Gustav Möller,Emil Nygaard Albertsen,Jake Gyllenhaal",Listen. Carefully.,Very unconvincing.,67.0
+63,Dune,8.5,Denis Villeneuve,2021,",Action,Adventure,Drama,Sci-Fi","Denis Villeneuve,Eric Roth,Timothée Chalamet","Beyond fear, destiny awaits.",This is only the beginning!,75.0
+64,Don't Worry Darling,7.5,Olivia Wilde,2022,",Crime,Drama,Horror,Mystery,Thriller,Add content advisory","Carey Van Dyke,Shane Van Dyke,Florence Pugh",Information Unavailable,np.nan,0.0
+65,Brooklyn Nine-Nine,8.4,Dan Goor,2013,",Comedy,Crime","Andy Samberg,Stephanie Beatriz,Terry Crews",The law. Without the order.,A delight from the start,0.0
+66,Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog,6.8,Cecilia Aranovich,2021,",Animation,Adventure,Comedy,Family,Fantasy,Horror,Mystery","William Hanna,Joseph Barbera,Frank Welker",Information Unavailable,Disappointed,0.0
+67,The Orville,8.0,Seth MacFarlane,2017,",Adventure,Comedy,Drama,Sci-Fi","Adrianne Palicki,Penny Johnson Jerald,Seth MacFarlane",12+,I hope the audience is big enough,0.0
+68,Crazy Rich Asians,6.9,Jon M. Chu,2018,",Comedy,Drama,Romance","Adele Lim,Kevin Kwan,Constance Wu",The only thing crazier than love is family,It's Almost Like...Everyone Missed the Point,74.0
+69,The Suicide Squad,7.3,James Gunn,2021,",Action,Adventure,Comedy,Sci-Fi","Margot Robbie,Idris Elba,John Cena",They're dying to save the world.,This movie is way better than the 2016 version,72.0
+70,The Expanse,8.5,Daniel Abraham,2015,",Drama,Mystery,Sci-Fi","Ty Franck,Wes Chatham,Dominique Tipper",We've gone too far,One of the better sci-fi shows I've seen in a while!,0.0
+71,Avengers: Endgame,8.4,Anthony Russo,2019,",Action,Adventure,Drama,Sci-Fi","Christopher Markus,Stephen McFeely,Stan Lee",Avenge the fallen.,The ending made all 22 movies worth it,78.0
+72,The Wheel of Time,7.5,Rafe Judkins,2021,",Action,Adventure,Drama,Fantasy,Add content advisory","Josha Stradowski,Marcus Rutherford,Rafe Judkins",Information Unavailable,np.nan,0.0
+73,The Last Duel,7.7,Ridley Scott,2021,",Drama,History","Ben Affleck,Matt Damon,Jodie Comer","- Rated R for strong violence including sexual assault, sexual content, some graphic nudity, and language",Venice 78 review,61.0
+74,The Matrix Resurrections,7.5,Lana Wachowski,2021,",Action,Sci-Fi,Add content advisory","David Mitchell,Aleksandar Hemon,Keanu Reeves",Information Unavailable,np.nan,0.0
+75,Sex/Life,5.3,Stacy Rukeyser,2021,",Comedy,Drama,Romance","Mike Vogel,Adam Demos,Stacy Rukeyser",Time to Choose,... entirely-trash... that 15% give it a 10... scary,0.0
+76,Criminal Minds,8.1,Jeff Davis,2005,",Crime,Drama,Mystery,Thriller","Kirsten Vangsness,A.J. Cook,Jeff Davis","To catch a criminal, you have to think like one.",Is it Just Me or....,0.0
+77,Black Widow,6.8,Cate Shortland,2021,",Action,Adventure,Sci-Fi","Jac Schaeffer,Ned Benson,Scarlett Johansson",She's Done Running From Her Past.,MCU Version of a Filler Episode,67.0
+78,Tenet,7.4,Christopher Nolan,2020,",Action,Sci-Fi,Thriller","John David Washington,Robert Pattinson,Elizabeth Debicki",Time Runs Out,Christopher Nolan does James Bond -- with time travel!,69.0
+79,Don't Breathe 2,6.1,Rodo Sayagues,2021,",Horror,Thriller","Rodo Sayagues,Stephen Lang,Madelyn Grace",A,Quite good.,46.0
+80,Cinderella,4.2,Kay Cannon,2021,",Adventure,Comedy,Family,Fantasy,Musical,Romance","Camila Cabello,Billy Porter,Nicholas Galitzine",The legend you know. The story you don't.,I tried to like it...,41.0
+81,Miracle Workers,7.1,Simon Rich,2019,",Comedy,Drama,Fantasy,Romance","Geraldine Viswanathan,Karan Soni,Simon Rich",On the Trillionth Day...God Quit,The Passable Cousin of 'The Good Place',0.0
+82,Hawkeye,7.5,Jeremy Renner,2021,",Action,Adventure,Crime,Drama,Mystery,Sci-Fi,Add content advisory","Florence Pugh,Jeremy Renner,Hailee Steinfeld","This Holiday Season, The Best Gifts Come with a Bow.",np.nan,0.0
+83,Loki,8.4,Michael Waldron,2021,",Action,Adventure,Fantasy,Sci-Fi","Owen Wilson,Gugu Mbatha-Raw,Michael Waldron",12+,Tom Hiddleston is great but the show fails to impress...,0.0
+84,Q-Force,6.2,Gabe Liedman,2021,",Animation,Action,Adventure,Comedy,Crime,Fantasy,Sci-Fi","David Harbour,Patti Harrison,Gabe Liedman",A Queer and Present Danger,Legitimately funny and entertaining.,0.0
+85,Thor: Love and Thunder,7.5,Taika Waititi,2022,",Action,Adventure,Fantasy,Add content advisory","Jennifer Kaytin Robinson,Taika Waititi,Karen Gillan",Information Unavailable,np.nan,0.0
+86,Dune,6.4,David Lynch,1984,",Action,Adventure,Sci-Fi","David Lynch,Kyle MacLachlan,Virginia Madsen","It is a world where sandworms 1,000 feet long guard creation's greatest treasure - the spice that prolongs life. And enables the mind to fold space and slow time. Where a prophecy will be fulfilled. And a young leader with incredible powers will emerge to command an army of five million warriors in the final battle for control of a universe and its source of ultimate power. The planet called Dune.",Outland Empire,39.0
+87,Shadow and Bone,7.7,Eric Heisserer,2021,",Action,Adventure,Drama,Fantasy,Mystery","Ben Barnes,Archie Renaux,Eric Heisserer",16,Wasn't expecting this!,0.0
+88,Copshop,6.7,Joe Carnahan,2021,",Action,Crime,Thriller","Joe Carnahan,Mark Williams,Frank Grillo",Someone's Gotta Take The Hit,"Good Start Then Spiralled Down, Don't Bother!",61.0
+89,The Lighthouse,7.5,Robert Eggers,2019,",Drama,Fantasy,Horror,Mystery","Max Eggers,Robert Pattinson,Willem Dafoe",There is enchantment in the light.,Your Goddamn farts..,83.0
+90,Eternals,7.5,Chloé Zhao,2021,",Action,Adventure,Drama,Fantasy,Sci-Fi,Add content advisory","Patrick Burleigh,Ryan Firpo,Gemma Chan",In the beginning...,np.nan,0.0
+91,The Proposal,6.7,Anne Fletcher,2009,",Comedy,Drama,Romance","Sandra Bullock,Ryan Reynolds,Mary Steenburgen",Here comes the bribe...,I am still watching it in 2019!!!,48.0
+92,The Big Bang Theory,8.1,Chuck Lorre,2007,",Comedy,Romance","Johnny Galecki,Jim Parsons,Kaley Cuoco",Smart Is The New Sexy.,Can't Get Enough,0.0
+93,Prisoners of the Ghostland,4.4,Sion Sono,2021,",Action,Horror,Sci-Fi,Thriller","Reza Sixo Safai,Nicolas Cage,Sofia Boutella",Information Unavailable,When you're on laced shrooms and bad LSD at a Burning Man festival in a Japanese desert.,52.0
+94,Chapelwaite,7.5,Jason Filardi,2021,",Drama,Horror,Mystery","Adrien Brody,Emily Hampshire,Jennifer Ens",TV-MA,"Good, but not great, yet...",0.0
+95,"Love, Death & Robots",8.5,Tim Miller,2019,",Animation,Short,Action,Adventure,Comedy,Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller","Nolan North,Steven Pacey,Tim Miller",18,The Second Season...,0.0
+96,Boku no hîrô akademia,8.4,Daiki Yamashita,2016,",Animation,Action,Adventure,Comedy,Fantasy,Sci-Fi","Ayane Sakura,Daiki Yamashita,Nobuhiko Okamoto",16,my hero academy is a masterpiece.,0.0
+97,Dexter,8.6,James Manos Jr.,2006,",Crime,Drama,Mystery,Thriller","Jennifer Carpenter,David Zayas,James Manos Jr.",Takes life. Seriously.,Totally worth to watch each and every episodes,0.0
+98,The Dark Knight,9.0,Christopher Nolan,2008,",Action,Crime,Drama,Thriller","Christopher Nolan,David S. Goyer,Christian Bale",Why So Serious?,The Dark Knight,84.0
+99,La casa de papel,8.3,Álex Pina,2017,",Action,Crime,Mystery,Thriller","Álvaro Morte,Itziar Ituño,Álex Pina",16+,Pretty Entertaining!,0.0
+100,Mortal Kombat,6.1,Simon McQuoid,2021,",Action,Adventure,Fantasy,Sci-Fi,Thriller","Dave Callaham,Oren Uziel,Lewis Tan",Get over here.,"Watch if you are a MK fan, otherwise skip it",44.0
+101,Bad Candy,3.6,Scott B. Hansen,2020,",Horror,Thriller,Add content advisory","Desiree Connell,Scott B. Hansen,Thacker Hoffman",Take one or else.,Just Bad !,0.0
+102,Kingsman: The Secret Service,7.7,Matthew Vaughn,2014,",Action,Adventure,Comedy,Thriller","Matthew Vaughn,Mark Millar,Colin Firth",Manners maketh man.,"Quintessentially British, Hilariously Funny, Brutally Violent",60.0
+103,Modern Family,8.4,Steven Levitan,2009,",Comedy,Drama,Romance","Ed O'Neill,Sofía Vergara,Julie Bowen","One big (straight, gay, multi-cultural, traditional) happy family.","Laugh-out-loud ensemble comedy; a ""The Office""/""Arrested Development"" hybrid (almost...)",0.0
+104,Final Space,8.3,Olan Rogers,2018,",Animation,Action,Adventure,Comedy,Drama,Fantasy,Sci-Fi","Fred Armisen,Tom Kenny,Olan Rogers",13,At 56 Age I enjoyed this thank you,0.0
+105,Lost,8.3,J.J. Abrams,2004,",Adventure,Drama,Fantasy,Mystery,Sci-Fi,Thriller","Damon Lindelof,Jorge Garcia,Josh Holloway",They're not the survivors they think they are. (Season Two),"Don't get turned off by the length, this is the perfect show.",0.0
+106,Gossip Girl,7.4,Stephanie Savage,2007,",Drama,Romance","Blake Lively,Leighton Meester,Penn Badgley",You're nobody until you're talked about.,Cringe but addictive,0.0
+107,The Boys,8.7,Eric Kripke,2019,",Action,Crime,Drama,Sci-Fi","Jack Quaid,Antony Starr,Eric Kripke",Never Meet Your Heroes,"Just... Wow. Dark, funny and gripping.",0.0
+108,Jumanji: Welcome to the Jungle,6.9,Jake Kasdan,2017,",Action,Adventure,Comedy,Fantasy","Erik Sommers,Scott Rosenberg,Dwayne Johnson",The game has evolved.,Unexpectedly fun!,58.0
+109,Nightmare Alley,7.5,Guillermo del Toro,2021,",Action,Crime,Drama,Thriller,Add content advisory","Kim Morgan,William Lindsay Gresham,Bradley Cooper","Rated R for strong/bloody violence, some sexual content, nudity and language",np.nan,0.0
+110,Nightbooks,5.8,David Yarovesky,2021,",Family,Fantasy,Horror,Mystery","Tobias Iaconis,J.A. White,Winslow Fegley",Write for your Life,I don't know,65.0
+111,Malignant,6.3,James Wan,2021,",Crime,Horror,Mystery,Thriller","Ingrid Bisu,Akela Cooper,Annabelle Wallis",A new vision of terror.,80's horror is back! For better and for worse...,51.0
+112,Doctor Who,8.6,Sydney Newman,2005,",Adventure,Drama,Family,Mystery,Sci-Fi","Peter Capaldi,Pearl Mackie,Sydney Newman","When Two Worlds Collide, Anything Can Happen... (Series 3)",bad writing is killing a series I love,0.0
+113,A Quiet Place Part II,7.3,John Krasinski,2020,",Drama,Horror,Sci-Fi,Thriller","Bryan Woods,Scott Beck,Emily Blunt",Silence is Not Enough,"Better than the first movie, in my opinion!",71.0
+114,Mare of Easttown,8.5,Brad Ingelsby,2021,",Crime,Drama,Mystery","Julianne Nicholson,Jean Smart,Brad Ingelsby",All Truths Come to Light,Winslet won me over!,0.0
+115,The Big Bang Theory,8.1,Chuck Lorre,2007,",Comedy,Romance","Johnny Galecki,Jim Parsons,Kaley Cuoco",Smart Is The New Sexy.,Can't Get Enough,0.0
+116,The White Lotus,7.7,Mike White,2021,",Comedy,Drama","Connie Britton,Jennifer Coolidge,Mike White",18,New Genre: CRINGE,0.0
+117,Titans,7.6,Greg Berlanti,2018,",Action,Adventure,Crime,Drama,Fantasy,Sci-Fi","Geoff Johns,Brenton Thwaites,Anna Diop",Heroes Will Rise... ...Or Gotham Will Fall.,Better than the trailer suggests,0.0
+118,Shang-Chi and the Legend of the Ten Rings,7.9,Destin Daniel Cretton,2021,",Action,Adventure,Fantasy,Sci-Fi","Destin Daniel Cretton,Andrew Lanham,Simu Liu",A Marvel legend will rise.,Absolute Banger!,71.0
+119,Don't Look Up,7.5,Adam McKay,2021,",Comedy,Drama,Sci-Fi,Add content advisory","David Sirota,Timothée Chalamet,Leonardo DiCaprio","Rated R for language throughout, some sexual content, graphic nudity and drug content",np.nan,0.0
+120,The Orville,8.0,Seth MacFarlane,2017,",Adventure,Comedy,Drama,Sci-Fi","Adrianne Palicki,Penny Johnson Jerald,Seth MacFarlane",12+,I hope the audience is big enough,0.0
+121,Vigil,7.5,Tom Edge,2021,",Crime,Drama,Mystery,Thriller","Rose Leslie,Paterson Joseph,Tom Edge","The deeper you go, the darker it gets.",Exciting new thriller with great potential,0.0
+122,Shershaah,8.8,Vishnuvardhan,2021,",Action,Biography,Drama,History,War","Sidharth Malhotra,Kiara Advani,Shiv Panditt",UA,Totally Masterpiece,0.0
+123,Jennifer's Body,5.3,Karyn Kusama,2009,",Comedy,Horror","Megan Fox,Amanda Seyfried,Adam Brody",She's evil... and not just high school evil.,Unapologetic Megan Fox,47.0
+124,Boku no hîrô akademia,8.4,Daiki Yamashita,2016,",Animation,Action,Adventure,Comedy,Fantasy,Sci-Fi","Ayane Sakura,Daiki Yamashita,Nobuhiko Okamoto",16,my hero academy is a masterpiece.,0.0
+125,Avengers: Infinity War,8.4,Anthony Russo,2018,",Action,Adventure,Sci-Fi","Christopher Markus,Stephen McFeely,Stan Lee",An entire universe. Once and for all.,It's been almost one year,68.0
+126,Reservation Dogs,8.2,Sterlin Harjo,2021,",Comedy,Crime","Devery Jacobs,D'Pharaoh Woon-A-Tai,Lane Factor",TV-MA,Totally on point,0.0
+127,American Horror Stories,6.1,Brad Falchuk,2021,",Drama,Horror,Thriller","Sierra McCormick,Paris Jackson,Merrin Dungey",A,What even is this,0.0
+128,Rick and Morty,9.2,Dan Harmon,2013,",Animation,Adventure,Comedy,Sci-Fi","Justin Roiland,Chris Parnell,Spencer Grammer","Science makes sense, family doesn't.",This show is excellent,0.0
+129,Reminiscence,5.9,Lisa Joy,2021,",Mystery,Romance,Sci-Fi,Thriller","Hugh Jackman,Rebecca Ferguson,Thandiwe Newton",Don't Look Back,"Gentle Sci-fi Noir, respectful of the genre.",46.0
+130,Boku no hîrô akademia,8.4,Daiki Yamashita,2016,",Animation,Action,Adventure,Comedy,Fantasy,Sci-Fi","Ayane Sakura,Daiki Yamashita,Nobuhiko Okamoto",16,my hero academy is a masterpiece.,0.0
+131,Titans,7.6,Greg Berlanti,2018,",Action,Adventure,Crime,Drama,Fantasy,Sci-Fi","Geoff Johns,Brenton Thwaites,Anna Diop",Heroes Will Rise... ...Or Gotham Will Fall.,Better than the trailer suggests,0.0
+132,No Time to Die,7.5,Cary Joji Fukunaga,2021,",Action,Adventure,Thriller,Add content advisory","Robert Wade,Cary Joji Fukunaga,Daniel Craig",Bond is Back,np.nan,0.0
+133,Rick and Morty,9.2,Dan Harmon,2013,",Animation,Adventure,Comedy,Sci-Fi","Justin Roiland,Chris Parnell,Spencer Grammer","Science makes sense, family doesn't.",This show is excellent,0.0
+134,Dexter,8.6,James Manos Jr.,2006,",Crime,Drama,Mystery,Thriller","Jennifer Carpenter,David Zayas,James Manos Jr.",Takes life. Seriously.,Totally worth to watch each and every episodes,0.0
+135,Modern Love,8.0,Anne Hathaway,2019,",Comedy,Romance","Andy Garcia,Anne Hathaway,Tina Fey",16,The opposite of Black Mirror,0.0
+136,True Blood,7.8,Alan Ball,2008,",Drama,Fantasy,Mystery,Romance,Thriller","Stephen Moyer,Sam Trammell,Alan Ball",You Know You're Hooked (Season 4),Follows the first book well,0.0
+137,Agents of S.H.I.E.L.D.,7.5,Maurissa Tancharoen,2013,",Action,Adventure,Drama,Sci-Fi,Thriller","Joss Whedon,Clark Gregg,Ming-Na Wen",Not all heroes are super. (season 1),Underappreciated Marvel Gem,0.0
+138,Chapelwaite,7.5,Jason Filardi,2021,",Drama,Horror,Mystery","Adrien Brody,Emily Hampshire,Jennifer Ens",TV-MA,"Good, but not great, yet...",0.0
+139,Don't Breathe 2,6.1,Rodo Sayagues,2021,",Horror,Thriller","Rodo Sayagues,Stephen Lang,Madelyn Grace",A,Quite good.,46.0
+140,Fantasy Island,5.8,Elizabeth Craft,2021,",Adventure,Drama,Fantasy,Mystery,Add content advisory","Gene Levitt,Roselyn Sanchez,Kiara Barnes",TV-14,"""Half able to pay attention""",0.0
+141,Venom: Let There Be Carnage,7.5,Andy Serkis,2021,",Action,Sci-Fi,Thriller","Tom Hardy,Tom Hardy,Woody Harrelson","Rated PG-13 for intense sequences of violence and action, some strong language, disturbing material and suggestive references",np.nan,0.0
+142,Desperate Housewives,7.5,Marc Cherry,2004,",Comedy,Drama,Mystery,Romance","Felicity Huffman,Marcia Cross,Marc Cherry","Tempting, isn't it?","""Desperate,"" Guilty and Loving Every Friggin' Minute Of It!",0.0
+143,Friends,8.8,David Crane,1994,",Comedy,Romance","Jennifer Aniston,Courteney Cox,Lisa Kudrow",You can never have enough Friends!,Where are YOUR Friends?,0.0
+144,Don't Worry Darling,7.5,Olivia Wilde,2022,",Crime,Drama,Horror,Mystery,Thriller,Add content advisory","Carey Van Dyke,Shane Van Dyke,Florence Pugh",Information Unavailable,np.nan,0.0
+145,Stranger Things,8.7,Matt Duffer,2016,",Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller","Millie Bobby Brown,Finn Wolfhard,Winona Ryder",The world is turning upside down. (Season 1),Season 3 feels like a parody of the show.,0.0
+146,Reminiscence,5.9,Lisa Joy,2021,",Mystery,Romance,Sci-Fi,Thriller","Hugh Jackman,Rebecca Ferguson,Thandiwe Newton",Don't Look Back,"Gentle Sci-fi Noir, respectful of the genre.",46.0
+147,Cinderella,4.2,Kay Cannon,2021,",Adventure,Comedy,Family,Fantasy,Musical,Romance","Camila Cabello,Billy Porter,Nicholas Galitzine",The legend you know. The story you don't.,I tried to like it...,41.0
+148,Miracle Workers,7.1,Simon Rich,2019,",Comedy,Drama,Fantasy,Romance","Geraldine Viswanathan,Karan Soni,Simon Rich",On the Trillionth Day...God Quit,The Passable Cousin of 'The Good Place',0.0
+149,Mom,7.2,Gemma Baker,2013,",Comedy,Drama,Romance","Chuck Lorre,Allison Janney,Anna Faris",16+,Allison Janney is a genius,0.0
+150,Old,5.8,M. Night Shyamalan,2021,",Drama,Horror,Mystery,Thriller","Pierre-Oscar Lévy,Frederik Peeters,Gael García Bernal",It's only a matter of time.,Same Old tricks,55.0
+151,Thor: Ragnarok,7.9,Taika Waititi,2017,",Action,Adventure,Comedy,Fantasy,Sci-Fi","Craig Kyle,Christopher L. Yost,Chris Hemsworth",No Hammer. No Problem.,We Are About To Find Out If Thor The God Thunder Really Exists Or Not,74.0
+152,Friends,8.8,David Crane,1994,",Comedy,Romance","Jennifer Aniston,Courteney Cox,Lisa Kudrow",You can never have enough Friends!,Where are YOUR Friends?,0.0
+153,Breaking Bad,9.4,Vince Gilligan,2008,",Crime,Drama,Thriller","Aaron Paul,Anna Gunn,Vince Gilligan","In the no-holds-barred world of Walt White, the end justifies the extreme. (season 2)",Best TV show ever made.,0.0
+154,One Tree Hill,7.7,Mark Schwahn,2003,",Drama,Romance,Sport","James Lafferty,Hilarie Burton,Mark Schwahn",Where nothing ever changed until one outsider changed everything.,Should have ended with season 7,0.0
+155,Lost,8.3,J.J. Abrams,2004,",Adventure,Drama,Fantasy,Mystery,Sci-Fi,Thriller","Damon Lindelof,Jorge Garcia,Josh Holloway",They're not the survivors they think they are. (Season Two),"Don't get turned off by the length, this is the perfect show.",0.0
+156,The Night House,6.9,David Bruckner,2020,",Horror,Mystery,Thriller","Luke Piotrowski,Rebecca Hall,Sarah Goldberg",Get out of the house.,Generational Horror Film,68.0
+157,Supernatural,8.4,Eric Kripke,2005,",Drama,Fantasy,Horror,Mystery,Thriller","Jensen Ackles,Jim Beaver,Eric Kripke",Fear is a luxury,"I'm not a shipper , I'm only an old loyal spn fan, I loved team free will with all my being and",0.0
+158,The Sopranos,9.2,David Chase,1999,",Crime,Drama","Lorraine Bracco,Edie Falco,David Chase","Made in America. (season 6, part 2)",A true classic,0.0
+159,Tokyo Revengers,8.5,Griffin Puatu,2021,",Animation,Action,Drama,Sci-Fi","Yuuki Shin,Griffin Puatu,Yu Hayashi",TV-14,Masterpiece,0.0
+160,Y: The Last Man,6.5,Diane Lane,2021,",Action,Adventure,Drama,Sci-Fi","Ben Schnetzer,Diane Lane,Ashley Romans",TV-14,They don't know how to make a show,0.0
+161,The Power of the Dog,6.6,Jane Campion,2021,",Drama,Romance,Western","Thomas Savage,Benedict Cumberbatch,Kirsten Dunst",Rated R for brief sexual content/full nudity.,Beautiful and Sensational,91.0
+162,The Good Place,8.2,Michael Schur,2016,",Comedy,Drama,Fantasy,Romance","William Jackson Harper,Jameela Jamil,Michael Schur",Welcome to The Good Place. Everything is fine. (Season 1),the good place is when a tv show is changing the world for the better,0.0
+163,Pitch Perfect,7.1,Jason Moore,2012,",Comedy,Music,Romance","Mickey Rapkin,Anna Kendrick,Brittany Snow",Get Pitch Slapped,"Geared up to hate this, but ended up loving it.",66.0
+164,PAW Patrol: The Movie,6.2,Cal Brunker,2021,",Animation,Adventure,Comedy,Family","Cal Brunker,Bob Barlen,Tyler Perry",Our Fate is in Their Paws,Unexpectedly entertaining,50.0
+165,The Wheel of Time,7.5,Rafe Judkins,2021,",Action,Adventure,Drama,Fantasy,Add content advisory","Josha Stradowski,Marcus Rutherford,Rafe Judkins",Information Unavailable,np.nan,0.0
+166,The Lost Symbol,7.0,Jay Beattie,2021,",Action,Adventure,Drama,Mystery,Thriller,Add content advisory","Ashley Zukerman,Eddie Izzard,Valorie Curry",Information Unavailable,generic,0.0
+167,Game of Thrones,9.2,David Benioff,2011,",Action,Adventure,Drama,Fantasy","Emilia Clarke,Peter Dinklage,Kit Harington",Winter is coming.,Season 8 is SHHHITTTTEEEEEE,0.0
+168,United 93,7.6,Paul Greengrass,2006,",Action,Drama,History,Thriller","David Alan Basche,Olivia Thirlby,Liza Colón-Zayas","September 11, 2001. Four planes were hijacked. Three of them reached their target. This is the story of the fourth.",Gut and heart wrenching...,90.0
+169,The Lost Symbol,7.0,Jay Beattie,2021,",Action,Adventure,Drama,Mystery,Thriller,Add content advisory","Ashley Zukerman,Eddie Izzard,Valorie Curry",Information Unavailable,generic,0.0
+170,Don't Worry Darling,7.5,Olivia Wilde,2022,",Crime,Drama,Horror,Mystery,Thriller,Add content advisory","Carey Van Dyke,Shane Van Dyke,Florence Pugh",Information Unavailable,np.nan,0.0
+171,Doctor Sleep,7.3,Mike Flanagan,2019,",Drama,Fantasy,Horror,Thriller","Stephen King,Ewan McGregor,Rebecca Ferguson","A new chapter from Stephen King, author of 'The Shining'",should be mini-series,59.0
+172,The Umbrella Academy,8.0,Steve Blackman,2019,",Action,Adventure,Comedy,Drama,Fantasy,Sci-Fi","Elliot Page,Tom Hopper,David Castañeda",Super Strong,Masterclass on how to use music in movies,0.0
+173,Spider-Man: No Way Home,7.5,Jon Watts,2021,",Action,Adventure,Sci-Fi,Add content advisory","Erik Sommers,Steve Ditko,Zendaya",Information Unavailable,np.nan,0.0
+174,Resident Evil: Welcome to Raccoon City,7.5,Johannes Roberts,2021,",Action,Horror,Mystery,Sci-Fi,Add content advisory","Kaya Scodelario,Robbie Amell,Hannah John-Kamen","Rated R for strong violence and gore, and language throughout.",np.nan,0.0
+175,The Tomorrow War,6.6,Chris McKay,2021,",Action,Adventure,Drama,Sci-Fi,Thriller","Chris Pratt,Yvonne Strahovski,J.K. Simmons",13,Pratt lifts it up,45.0
+176,Titans,7.6,Greg Berlanti,2018,",Action,Adventure,Crime,Drama,Fantasy,Sci-Fi","Geoff Johns,Brenton Thwaites,Anna Diop",Heroes Will Rise... ...Or Gotham Will Fall.,Better than the trailer suggests,0.0
+177,Better Call Saul,8.8,Vince Gilligan,2015,",Crime,Drama","Bob Odenkirk,Rhea Seehorn,Jonathan Banks",Make the call,It just keeps getting better and thats unheard of!!,0.0
+178,Fargo,8.9,Noah Hawley,2014,",Crime,Drama,Thriller","Martin Freeman,Allison Tolman,Noah Hawley","Aw jeez, here we go again. (Season 1)",Fargo Season 4 - No thank you,0.0
+179,Malignant,6.3,James Wan,2021,",Crime,Horror,Mystery,Thriller","Ingrid Bisu,Akela Cooper,Annabelle Wallis",A new vision of terror.,80's horror is back! For better and for worse...,51.0
+180,Fear the Walking Dead,6.9,Dave Erickson,2015,",Drama,Horror,Sci-Fi,Thriller","Kim Dickens,Frank Dillane,Cliff Curtis",Fear begins here. (Season 1),my opinion,0.0
+181,Grey's Anatomy,7.5,Shonda Rhimes,2005,",Drama,Romance","Chandra Wilson,James Pickens Jr.,Shonda Rhimes",Operations. Relations. Complications.,Life Support,0.0
+182,Doctor Who,8.6,Sydney Newman,2005,",Adventure,Drama,Family,Mystery,Sci-Fi","Peter Capaldi,Pearl Mackie,Sydney Newman","When Two Worlds Collide, Anything Can Happen... (Series 3)",Terrible new season,0.0
+183,NCIS: Naval Criminal Investigative Service,7.7,Donald P. Bellisario,2003,",Action,Crime,Drama,Mystery,Thriller","Mark Harmon,David McCallum,Sean Murray",16,So sad a wonderful show is sinking,0.0
+184,Jumanji: The Next Level,6.7,Jake Kasdan,2019,",Action,Adventure,Comedy,Fantasy","Jeff Pinkner,Scott Rosenberg,Dwayne Johnson",The next level,Not so good,58.0
+185,The Vampire Diaries,7.7,Julie Plec,2009,",Drama,Fantasy,Horror,Mystery,Romance,Thriller","Nina Dobrev,Paul Wesley,Ian Somerhalder",Love sucks,Solid,0.0
+186,Stranger Things,8.7,Matt Duffer,2016,",Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller","Millie Bobby Brown,Finn Wolfhard,Winona Ryder",The world is turning upside down. (Season 1),Season 3 feels like a parody of the show.,0.0
+187,Don't Look Up,7.5,Adam McKay,2021,",Comedy,Drama,Sci-Fi,Add content advisory","David Sirota,Timothée Chalamet,Leonardo DiCaprio","Rated R for language throughout, some sexual content, graphic nudity and drug content",np.nan,0.0
+188,Death Note: Desu nôto,9.0,Mamoru Miyano,2006,",Animation,Crime,Drama,Fantasy,Mystery,Thriller","Vincent Tong,Mamoru Miyano,Brad Swaile",Take down Yotsuba!,"Brilliant start, weak finish, but still great show",0.0
+189,Clickbait,7.3,Tony Ayres,2021,",Crime,Drama,Mystery,Thriller","Zoe Kazan,Betty Gabriel,Phoenix Raei",Father. Husband. Brother. Liar?,Went a little far trying to make the twists,0.0
+190,Two and a Half Men,7.0,Lee Aronsohn,2003,",Comedy,Romance","Jon Cryer,Ashton Kutcher,Angus T. Jones",Charlie Lives! (syndication),Three Words,0.0
+191,One Piece: Wan pîsu,8.8,Eiichiro Oda,1999,",Animation,Action,Adventure,Comedy,Drama,Fantasy","Tony Beck,Laurent Vernin,Eiichiro Oda",Set sail for One Piece!,best anime ever,0.0
+192,Archer,8.6,Adam Reed,2009,",Animation,Action,Comedy","Judy Greer,Amber Nash,Adam Reed",Espionage never tasted so salty. (season 1),Ultimate Television Entertainment!,0.0
+193,Chicago Fire,8.0,Michael Brandt,2012,",Action,Drama","Jesse Spencer,Taylor Kinney,Christian Stolte",Life in the heat of it.,"PLEEEZE tell me Queen Gabby isn't coming back, and sniveling her way back to Casey to boot. Just let brett have casey!! They are 2 of a kind",0.0
+194,Spider-Man: No Way Home,7.5,Jon Watts,2021,",Action,Adventure,Sci-Fi,Add content advisory","Erik Sommers,Steve Ditko,Zendaya",Information Unavailable,np.nan,0.0
+195,Outer Banks,7.6,Shannon Burke,2020,",Action,Crime,Drama,Mystery,Romance,Thriller","Josh Pate,Chase Stokes,Madelyn Cline",Be Careful What You Search For,Pretty Decent,0.0
+196,ER,7.7,Michael Crichton,1994,",Drama,Romance","George Clooney,Julianna Margulies,Michael Crichton",TV-14,I like it,0.0
+197,Miracle Workers,7.1,Simon Rich,2019,",Comedy,Drama,Fantasy,Romance","Geraldine Viswanathan,Karan Soni,Simon Rich",On the Trillionth Day...God Quit,The Passable Cousin of 'The Good Place',0.0
+198,The Graduate,8.0,Mike Nichols,1967,",Comedy,Drama,Romance","Buck Henry,Charles Webb,Dustin Hoffman",The Movie That Became A Legend [Video Australia],"Dee da dee dee dee dee dee dee dee dee dee da dee, Doo da doo doo doo doo doo da doo",83.0
+199,Australian Gangster,5.7,Alexander Bertrand,2021,",Comedy,Crime,Drama,Add content advisory","Steve Bastoni,Alexander Bertrand,Louisa Mignone",Information Unavailable,What a waste of my time,0.0
+200,Bhoot Police,6.9,Pawan Kripalani,2021,",Comedy,Horror","Pawan Kripalani,Devashish Makhija,Saif Ali Khan",UA 16+,Mindless Entertainment...dont go by critiques...,0.0
+201,The Suicide Squad,7.3,James Gunn,2021,",Action,Adventure,Comedy,Sci-Fi","Margot Robbie,Idris Elba,John Cena",They're dying to save the world.,This movie is way better than the 2016 version,72.0
+202,The Vampire Diaries,7.7,Julie Plec,2009,",Drama,Fantasy,Horror,Mystery,Romance,Thriller","Nina Dobrev,Paul Wesley,Ian Somerhalder",Love sucks,Solid,0.0
+203,Endeavour,8.6,Shaun Evans,2012,",Crime,Drama,Mystery","James Bradshaw,Shaun Evans,Roger Allam","""A crusade in search of justice, risking everything for the truth ...""",Endeavour Magic,0.0
+204,Only Murders in the Building,8.3,John Hoffman,2021,",Comedy,Crime,Drama,Mystery,Thriller","Steve Martin,Martin Short,Selena Gomez",Every Body Has a Secret,"Witty, fun and Selena Gomez really shines surprisingly!",0.0
+205,Dune,8.5,Denis Villeneuve,2021,",Action,Adventure,Drama,Sci-Fi","Denis Villeneuve,Eric Roth,Timothée Chalamet","Beyond fear, destiny awaits.",This is only the beginning!,75.0
+206,Blood Drive,7.3,James Roland,2017,",Action,Adventure,Comedy,Horror,Sci-Fi,Thriller","Christina Ochoa,Thomas Dominique,James Roland",TV-MA,Bloody great fun,0.0
+207,Virgin River,7.4,Sue Tenney,2019,",Drama,Romance","Martin Henderson,Colin Lawrence,Sue Tenney",13+,So Good!,0.0
+208,The Voyeurs,5.9,Michael Mohan,2021,",Drama,Mystery,Thriller","Sydney Sweeney,Justice Smith,Ben Hardy",A,Only for die hard Sydney Sweeney fans.,54.0
+209,What If...?,7.6,Jeffrey Wright,2021,",Animation,Action,Adventure,Fantasy","Matthew Wood,Jeffrey Wright,Terri Douglas",Enter the Multiverse of infinite possibilities,Only first episode but..,0.0
+210,The Gentlemen,7.8,Guy Ritchie,2019,",Action,Comedy,Crime","Ivan Atkinson,Marn Davies,Matthew McConaughey",Criminal. Class.,Guy's Best Since Snatch.,51.0
+211,NCIS: Naval Criminal Investigative Service,7.7,Donald P. Bellisario,2003,",Action,Crime,Drama,Mystery,Thriller","Mark Harmon,David McCallum,Sean Murray",16,So sad a wonderful show is sinking,0.0
+212,The Power of the Dog,6.6,Jane Campion,2021,",Drama,Romance,Western","Thomas Savage,Benedict Cumberbatch,Kirsten Dunst",Rated R for brief sexual content/full nudity.,Beautiful and Sensational,91.0
+213,Jungle Cruise,6.6,Jaume Collet-Serra,2021,",Action,Adventure,Comedy,Fantasy","Glenn Ficarra,John Requa,Dwayne Johnson",UA,jungle ride,50.0
+214,Naruto,8.3,Masashi Kishimoto,2002,",Animation,Action,Adventure,Comedy,Fantasy","Maile Flanagan,Kate Higgins,Masashi Kishimoto",16,"A brief description and opinion about the Japanese Anime TV Series ""Naruto.""",0.0
+215,Wind River,7.7,Taylor Sheridan,2017,",Crime,Drama,Mystery,Thriller","Elizabeth Olsen,Jeremy Renner,Graham Greene",Nothing is harder to track than the truth.,An Engrossing Murder Mystery That Respects Its Subject _ and Audience,73.0
+216,Escape Room: Tournament of Champions,5.8,Adam Robitel,2021,",Action,Adventure,Horror,Mystery,Sci-Fi,Thriller","Maria Melnik,Daniel Tuch,Taylor Russell",Not Rated,Easy Cash Grab with Poorly Written Characters,48.0
+217,Once Upon a Time... in Hollywood,7.6,Quentin Tarantino,2019,",Comedy,Drama","Leonardo DiCaprio,Brad Pitt,Margot Robbie",The 9th Film from Quentin Tarantino.,A meandering masterpiece ... I didn't want it to end,83.0
+218,Shazam!,7.0,David F. Sandberg,2019,",Action,Adventure,Comedy,Fantasy","Darren Lemke,Bill Parker,Zachary Levi","If you want to save the world, say the magic word.",Surprisingly good,71.0
+219,Titanic,7.8,James Cameron,1997,",Drama,Romance","Leonardo DiCaprio,Kate Winslet,Billy Zane",Experience It Like Never Before (3D re-release),"Haunting, Powerfully Resonant And Visually Stunning",75.0
+220,Avengers: Endgame,8.4,Anthony Russo,2019,",Action,Adventure,Drama,Sci-Fi","Christopher Markus,Stephen McFeely,Stan Lee",Avenge the fallen.,The ending made all 22 movies worth it,78.0
+221,The Walking Dead,8.2,Frank Darabont,2010,",Drama,Horror,Thriller","Norman Reedus,Melissa McBride,Frank Darabont",Fight the dead. Fear the living.,Love Show BUT The Writers/Producers Need To Get Back To War Against Walkers!!!,0.0
+222,Criminal Minds,8.1,Jeff Davis,2005,",Crime,Drama,Mystery,Thriller","Kirsten Vangsness,A.J. Cook,Jeff Davis","To catch a criminal, you have to think like one.",Is it Just Me or....,0.0
+223,Shang-Chi and the Legend of the Ten Rings,7.9,Destin Daniel Cretton,2021,",Action,Adventure,Fantasy,Sci-Fi","Destin Daniel Cretton,Andrew Lanham,Simu Liu",A Marvel legend will rise.,Best non-avengers MCU movie,71.0
+224,Final Space,8.3,Olan Rogers,2018,",Animation,Action,Adventure,Comedy,Drama,Fantasy,Sci-Fi","Fred Armisen,Tom Kenny,Olan Rogers",13,At 56 Age I enjoyed this thank you,0.0
+225,Schitt's Creek,8.5,Dan Levy,2015,",Comedy","Eugene Levy,Catherine O'Hara,Dan Levy",This is NOT what we meant by 'Greener Pastures'. (Season 1),"Hated the ads, finally watched it and fell in love.",0.0
+226,Nightbooks,5.8,David Yarovesky,2021,",Family,Fantasy,Horror,Mystery","Tobias Iaconis,J.A. White,Winslow Fegley",Write for your Life,I don't know,65.0
+227,Spencer,6.5,Pablo Larraín,2021,",Biography,Drama,Romance,Add content advisory","Kristen Stewart,Timothy Spall,Jack Nielen",Information Unavailable,Solid and tranquil,85.0
+228,United 93,7.6,Paul Greengrass,2006,",Action,Drama,History,Thriller","David Alan Basche,Olivia Thirlby,Liza Colón-Zayas","September 11, 2001. Four planes were hijacked. Three of them reached their target. This is the story of the fourth.",Gut and heart wrenching...,90.0
+229,The Flash,7.6,Greg Berlanti,2014,",Action,Adventure,Drama,Sci-Fi","Andrew Kreisberg,Grant Gustin,Candice Patton",Discover what makes a hero (Season 1),Excellent start but fades away..,0.0
+230,Stargirl,7.2,Geoff Johns,2020,",Action,Adventure,Crime,Drama,Fantasy,Sci-Fi,Add content advisory","Brec Bassinger,Yvette Monreal,Anjelika Washington",PG,Strong start,0.0
+231,Vigil,7.5,Tom Edge,2021,",Crime,Drama,Mystery,Thriller","Rose Leslie,Paterson Joseph,Tom Edge","The deeper you go, the darker it gets.",Exciting new thriller with great potential,0.0
+232,You,7.7,Sera Gamble,2018,",Crime,Drama,Romance,Thriller","Penn Badgley,Victoria Pedretti,Ambyr Childers",Not everyone wants to be followed.,Made for Penn Badgley,0.0
+233,The Blacklist,8.0,Jon Bokenkamp,2013,",Crime,Drama,Mystery,Thriller","Megan Boone,Diego Klattenhoff,Jon Bokenkamp",Never trust a criminal...until you have to. (season 1),"""Spader's Show""",0.0
+234,Black Mirror,8.8,Charlie Brooker,2011,",Drama,Sci-Fi,Thriller","Hannah John-Kamen,Michaela Coel,Charlie Brooker",>> The future is bright./ (season 3),I miss Black Mirror.,0.0
+235,Squid Game,8.3,Greg Chun,2021,",Action,Adventure,Drama,Mystery,Thriller","Paul Nakauchi,Greg Chun,Stephen Fu",45.6 Billion Won is Child's Play,Terrible Subtitle,0.0
+236,Demon Slayer: Kimetsu No Yaiba,8.7,Natsuki Hanae,2019,",Animation,Action,Adventure,Fantasy,Horror,Thriller","Abby Trott,Natsuki Hanae,Zach Aguilar",16,Kimetsu No Yaiba,0.0
+237,Brooklyn Nine-Nine,8.4,Dan Goor,2013,",Comedy,Crime","Andy Samberg,Stephanie Beatriz,Terry Crews",The law. Without the order.,A delight from the start,0.0
+238,Scott Pilgrim vs. the World,7.5,Edgar Wright,2010,",Action,Comedy,Fantasy,Romance","Edgar Wright,Bryan Lee O'Malley,Michael Cera",An epic of epic epicness.,Something unusually great,69.0
+239,He-Man and the Masters of the Universe,6.2,Robert David,2021,",Animation,Action,Adventure,Family,Fantasy,Sci-Fi,Add content advisory","Grey Griffin,David Kaye,Robert David",7,"Not He-Man, but it gets better",0.0
+240,New Girl,7.7,Elizabeth Meriwether,2011,",Comedy","Jake Johnson,Max Greenfield,Elizabeth Meriwether",Boys will be boys. Jess will be Jess.,Finally a Series with some intelligent jokes,0.0
+241,Criminal Minds,8.1,Jeff Davis,2005,",Crime,Drama,Mystery,Thriller","Kirsten Vangsness,A.J. Cook,Jeff Davis","To catch a criminal, you have to think like one.",Is it Just Me or....,0.0
+242,Shingeki no kyojin,9.0,Yûki Kaji,2013,",Animation,Action,Adventure,Drama,Fantasy,Horror","Josh Grelle,Yûki Kaji,Marina Inoue",The face of humanity's extinction. (season 1),Legendary show.,0.0
+243,The Witcher: Nightmare of the Wolf,7.3,Kwang Il Han,2021,",Animation,Action,Adventure,Drama,Fantasy,Mystery","Andrzej Sapkowski,Theo James,Mary McDonnell",Face Your Demons,"A Stunning ""prequel"" to a beloved saga.",67.0
+244,Vigil,7.5,Tom Edge,2021,",Crime,Drama,Mystery,Thriller","Rose Leslie,Paterson Joseph,Tom Edge","The deeper you go, the darker it gets.",Exciting new thriller with great potential,0.0
+245,American Crime Story,8.4,Scott Alexander,2016,",Biography,Crime,Drama","Tom Rob Smith,Sarah Paulson,Annaleigh Ashford",The trial isn't the whole story. This is.,True representation of truth.,0.0
+246,Sex/Life,5.3,Stacy Rukeyser,2021,",Comedy,Drama,Romance","Mike Vogel,Adam Demos,Stacy Rukeyser",Time to Choose,... entirely-trash... that 15% give it a 10... scary,0.0
+247,Prey,4.2,Thomas Sieben,2021,",Adventure,Drama,Thriller","David Kross,Hanno Koffler,Maria Ehrich",18,The Acting Was Good...,0.0
+248,Scream,7.5,Matt Bettinelli-Olpin,2022,",Horror,Mystery,Thriller,Add content advisory","James Vanderbilt,Guy Busick,Kevin Williamson",Information Unavailable,np.nan,0.0
+249,The Mandalorian,8.8,Jon Favreau,2019,",Action,Adventure,Sci-Fi","Gina Carano,Giancarlo Esposito,Jon Favreau",U,Dave Filoni & Jon Favreau are the future of Star Wars,0.0
+250,Escape Room: Tournament of Champions,5.8,Adam Robitel,2021,",Action,Adventure,Horror,Mystery,Sci-Fi,Thriller","Maria Melnik,Daniel Tuch,Taylor Russell",Not Rated,Easy Cash Grab with Poorly Written Characters,48.0
+251,Law & Order: Special Victims Unit,8.0,Dick Wolf,1999,",Crime,Drama,Mystery,Thriller","Christopher Meloni,Ice-T,Dick Wolf",Where Risks are Taken.,Stick a fork in it!,0.0
+252,Clueless,6.9,Amy Heckerling,1995,",Comedy,Romance","Alicia Silverstone,Stacey Dash,Brittany Murphy",Sex. Clothes. Popularity. Is there a problem here?,Funny And Cute,68.0
+253,West Side Story,7.5,Steven Spielberg,2021,",Crime,Drama,Musical,Romance,Add content advisory","Arthur Laurents,Ansel Elgort,Rachel Zegler","Rated PG-13 for some strong violence, strong language, thematic content, suggestive material and brief smoking.",np.nan,0.0
+254,Escape Room: Tournament of Champions,5.8,Adam Robitel,2021,",Action,Adventure,Horror,Mystery,Sci-Fi,Thriller","Maria Melnik,Daniel Tuch,Taylor Russell",Not Rated,Easy Cash Grab with Poorly Written Characters,48.0
+255,Sixteen Candles,7.0,John Hughes,1984,",Comedy,Romance","Molly Ringwald,Anthony Michael Hall,Justin Henry","This is Samantha Baker and today is her 16th birthday. The problem is, nobody remembers.",30 years ago...,61.0
+256,Castle,8.1,Andrew W. Marlowe,2009,",Comedy,Crime,Drama,Mystery,Romance","Stana Katic,Susan Sullivan,Andrew W. Marlowe",A whole new chapter in crime solving. (Season 1),"Fillion is ""King"" Of This CASTLE...",0.0
+257,Good Trouble,7.5,Bradley Bredeweg,2019,",Comedy,Drama,Romance","Peter Paige,Maia Mitchell,Cierra Ramirez",TV-14,"Good Diversity, Zero Character Growth",0.0
+258,Younger,7.8,Darren Star,2015,",Comedy,Romance","Hilary Duff,Debi Mazar,Darren Star",It's only a lie if you get caught (Season 1),"It is a refreshing, fun, and real. Definitely worth watching for an amusing and relax evening.",0.0
+259,Last Night in Soho,7.4,Edgar Wright,2021,",Drama,Horror,Mystery,Thriller","Krysty Wilson-Cairns,Anya Taylor-Joy,Thomasin McKenzie",Information Unavailable,Very Unique Movie,67.0
+260,The Wire,9.3,David Simon,2002,",Crime,Drama,Thriller","Lance Reddick,Sonja Sohn,David Simon",A new case begins... (second season),"If You Haven't Seen this show, but are considering it, please read my review.",0.0
+261,Harry Potter and the Sorcerer's Stone,7.6,Chris Columbus,2001,",Adventure,Family,Fantasy","Steve Kloves,Daniel Radcliffe,Rupert Grint",Let The Magic Begin.,...Welcome to magic world,64.0
+262,The Wire,9.3,David Simon,2002,",Crime,Drama,Thriller","Lance Reddick,Sonja Sohn,David Simon",A new case begins... (second season),"If You Haven't Seen this show, but are considering it, please read my review.",0.0
+263,Fear Street: 1994,6.2,Leigh Janiak,2021,",Drama,Horror,Mystery","Kyle Killen,Phil Graziadei,Kiana Madeira",Three movies. Three weeks. One killer story.,"Entertaining. Good, but not great.",67.0
+264,Boku no hîrô akademia,8.4,Daiki Yamashita,2016,",Animation,Action,Adventure,Comedy,Fantasy,Sci-Fi","Ayane Sakura,Daiki Yamashita,Nobuhiko Okamoto",16,my hero academy is a masterpiece.,0.0
+265,What If...?,7.6,Jeffrey Wright,2021,",Animation,Action,Adventure,Fantasy","Matthew Wood,Jeffrey Wright,Terri Douglas",Enter the Multiverse of infinite possibilities,"Marvel, please take your cue from the original series!",0.0
+266,Vacation Friends,6.3,Clay Tarver,2021,",Adventure,Comedy","Tim Mullen,Clay Tarver,Lil Rel Howery",They came home with some extra baggage.,I had fun,49.0
+267,Avatar: The Last Airbender,9.3,Michael Dante DiMartino,2005,",Animation,Action,Adventure,Family,Fantasy,Mystery","Dee Bradley Baker,Zach Tyler,Mae Whitman",The Avatar Returns,The best show Nickelodeon has aired,0.0
+268,Suicide Squad,5.9,David Ayer,2016,",Action,Adventure,Fantasy,Sci-Fi","John Ostrander,Will Smith,Jared Leto",Justice has a bad side.,One of the Most Lifeless Action Movies I've Ever Seen,40.0
+269,Invincible,8.7,Robert Kirkman,2021,",Animation,Action,Adventure,Drama,Fantasy,Sci-Fi,Thriller","Cory Walker,Steven Yeun,J.K. Simmons",18,"Compelling story with great action, but not without it's flaws.",0.0
+270,West Side Story,7.5,Steven Spielberg,2021,",Crime,Drama,Musical,Romance,Add content advisory","Arthur Laurents,Ansel Elgort,Rachel Zegler","Rated PG-13 for some strong violence, strong language, thematic content, suggestive material and brief smoking.",np.nan,0.0
+271,Mr. Robot,8.5,Sam Esmail,2015,",Crime,Drama,Thriller","Christian Slater,Carly Chaikin,Sam Esmail",I'm crazy. This is crazy. I'm crazy. (Season 2),Best TV Show Ever Made,0.0
+272,The Card Counter,6.4,Paul Schrader,2021,",Action,Crime,Drama,Thriller","Oscar Isaac,Tiffany Haddish,Tye Sheridan",He's Playing the Hand He Was Dealt,Directionless,79.0
+273,Game of Thrones,9.2,David Benioff,2011,",Action,Adventure,Drama,Fantasy","Emilia Clarke,Peter Dinklage,Kit Harington",Winter is coming.,Season 8 is SHHHITTTTEEEEEE,0.0
+274,La casa de papel,8.3,Álex Pina,2017,",Action,Crime,Mystery,Thriller","Álvaro Morte,Itziar Ituño,Álex Pina",16+,Pretty Entertaining!,0.0
+275,Guardians of the Galaxy,8.0,James Gunn,2014,",Action,Adventure,Comedy,Sci-Fi","Nicole Perlman,Dan Abnett,Chris Pratt",You're welcome.,Guardians of Galaxy,76.0
+276,The Witcher,8.2,Lauren Schmidt,2019,",Action,Adventure,Fantasy,Mystery","Anna Shaffer,Freya Allan,Lauren Schmidt",The worst monsters are the ones we create.,Henry Cavill was terrific!,0.0
+277,What We Do in the Shadows,8.5,Jemaine Clement,2016,",Comedy,Fantasy,Horror","Matt Berry,Natasia Demetriou,Jemaine Clement",15+,A work of comedic art!,0.0
+278,Loki,8.4,Michael Waldron,2021,",Action,Adventure,Fantasy,Sci-Fi","Owen Wilson,Gugu Mbatha-Raw,Michael Waldron",12+,Tom Hiddleston is great but the show fails to impress...,0.0
+279,American Horror Story,8.0,Brad Falchuk,2011,",Drama,Horror,Thriller","Lady Gaga,Kathy Bates,Angela Bassett",Get committed,finally a good haunted house story,0.0
+280,The Matrix Reloaded,7.2,Lana Wachowski,2003,",Action,Sci-Fi","Lilly Wachowski,Lana Wachowski,Keanu Reeves",Free your mind.,"They went for some stuff, half of them didn't land, still a decent movie",62.0
+281,Scott Pilgrim vs. the World,7.5,Edgar Wright,2010,",Action,Comedy,Fantasy,Romance","Edgar Wright,Bryan Lee O'Malley,Michael Cera",An epic of epic epicness.,Something unusually great,69.0
+282,The Vampire Diaries,7.7,Julie Plec,2009,",Drama,Fantasy,Horror,Mystery,Romance,Thriller","Nina Dobrev,Paul Wesley,Ian Somerhalder",Love sucks,Solid,0.0
+283,Don't Breathe,7.1,Fede Alvarez,2016,",Crime,Horror,Thriller","Rodo Sayagues,Stephen Lang,Jane Levy",This house looked like an easy target. Until they found what was inside.,Unstoppable tension,71.0
+284,Chuck,8.2,Chris Fedak,2007,",Action,Comedy,Drama","Zachary Levi,Yvonne Strahovski,Joshua Gomez",Computer geek by day. Government operative by night. (Season 4),The greatest American action comedy TV series,0.0
+285,Space Jam: A New Legacy,4.4,Malcolm D. Lee,2021,",Animation,Adventure,Comedy,Family,Fantasy,Sci-Fi,Sport","Steve Rudnick,Timothy Harris,LeBron James",They're all Tuned up for a rematch.,lousy,36.0
+286,Harley Quinn,8.5,Justin Halpern,2019,",Animation,Action,Adventure,Comedy,Crime,Fantasy,Mystery","Dean Lorey,Kaley Cuoco,Lake Bell",TV-MA,How the heck don't you like this???,0.0
+287,Prisoners of the Ghostland,4.4,Sion Sono,2021,",Action,Horror,Sci-Fi,Thriller","Reza Sixo Safai,Nicolas Cage,Sofia Boutella",Information Unavailable,When you're on laced shrooms and bad LSD at a Burning Man festival in a Japanese desert.,52.0
+288,Nine Perfect Strangers,7.2,John-Henry Butterworth,2021,",Drama,Mystery,Thriller","Nicole Kidman,Melissa McCarthy,Michael Shannon",Welcome to Tranquillum,Michael Shannon has some incredible range.,0.0
+289,Squid Game,8.3,Greg Chun,2021,",Action,Adventure,Drama,Mystery,Thriller","Paul Nakauchi,Greg Chun,Stephen Fu",45.6 Billion Won is Child's Play,Definitely one of the most well-made Netflix shows by Korea,0.0
+290,Barry,8.3,Alec Berg,2018,",Action,Comedy,Crime,Drama","Bill Hader,Stephen Root,Sarah Goldberg",A hitman searching for some direction. (Season 1),"Barry Is A Hit, Man.",0.0
+291,Chaos Walking,5.7,Doug Liman,2021,",Action,Adventure,Fantasy,Sci-Fi","Christopher Ford,Tom Holland,Daisy Ridley",No one escapes the noise,Huge Waste of Time! Terrible Movie!,38.0
+292,Gunpowder Milkshake,6.0,Navot Papushado,2021,",Action,Crime,Thriller","Ehud Lavski,Karen Gillan,Lena Headey",A,Female John Wick,47.0
+293,Invincible,8.7,Robert Kirkman,2021,",Animation,Action,Adventure,Drama,Fantasy,Sci-Fi,Thriller","Cory Walker,Steven Yeun,J.K. Simmons",18,"Good lord, this is intense!",0.0
+294,WandaVision,8.0,Jac Schaeffer,2021,",Action,Comedy,Drama,Fantasy,Sci-Fi","Paul Bettany,Kathryn Hahn,Jac Schaeffer",Marvel Studios presents a visionary new age of television.,A great show!,0.0
+295,See,7.6,Steven Knight,2019,",Action,Drama,Sci-Fi","Sylvia Hoeks,Hera Hilmar,Steven Knight",16+,Fighting scenes,0.0
+296,WandaVision,8.0,Jac Schaeffer,2021,",Action,Comedy,Drama,Fantasy,Sci-Fi","Paul Bettany,Kathryn Hahn,Jac Schaeffer",Marvel Studios presents a visionary new age of television.,A great show!,0.0
+297,Black Clover,8.3,Dallas Reid,2017,",Animation,Action,Adventure,Comedy,Drama,Fantasy,Sci-Fi,Thriller","Jill Harris,Dallas Reid,Cris George",13,Decent,0.0
+298,The Suicide Squad,7.3,James Gunn,2021,",Action,Adventure,Comedy,Sci-Fi","Margot Robbie,Idris Elba,John Cena",They're dying to save the world.,This movie is way better than the 2016 version,72.0
+299,Spider-Man: Far from Home,7.5,Jon Watts,2019,",Action,Adventure,Sci-Fi","Erik Sommers,Stan Lee,Tom Holland",U,Spider-Man Vs. Drones,69.0
+300,Mumbai Diaries 26/11,8.8,Nikkhil Advani,2021,",Drama,Thriller","Konkona Sen Sharma,Shreya Dhanwanthary,Nikkhil Advani",UA,Story good,0.0
+301,Ted Lasso,8.8,Brendan Hunt,2020,",Comedy,Drama,Sport","Bill Lawrence,Jason Sudeikis,Hannah Waddingham",Out of His League,So much heart in a tv series... was unexpected,0.0
+302,Love and Monsters,7.0,Michael Matthews,2020,",Action,Adventure,Comedy,Fantasy,Sci-Fi","Matthew Robinson,Dylan O'Brien,Jessica Henwick",13,👍,63.0
+303,Stargirl,7.2,Geoff Johns,2020,",Action,Adventure,Crime,Drama,Fantasy,Sci-Fi,Add content advisory","Brec Bassinger,Yvette Monreal,Anjelika Washington",PG,Strong start,0.0
+304,Harley Quinn,8.5,Justin Halpern,2019,",Animation,Action,Adventure,Comedy,Crime,Fantasy,Mystery","Dean Lorey,Kaley Cuoco,Lake Bell",TV-MA,How the heck don't you like this???,0.0
+305,Space Jam: A New Legacy,4.4,Malcolm D. Lee,2021,",Animation,Adventure,Comedy,Family,Fantasy,Sci-Fi,Sport","Steve Rudnick,Timothy Harris,LeBron James",They're all Tuned up for a rematch.,lousy,36.0
+306,Doom Patrol,7.9,Jeremy Carver,2019,",Action,Adventure,Comedy,Drama,Mystery,Sci-Fi","Diane Guerrero,Matt Bomer,Jeremy Carver",TV-MA,Astonishingly good!,0.0
+307,Titans,7.6,Greg Berlanti,2018,",Action,Adventure,Crime,Drama,Fantasy,Sci-Fi","Geoff Johns,Brenton Thwaites,Anna Diop",Heroes Will Rise... ...Or Gotham Will Fall.,Better than the trailer suggests,0.0
+308,True Blood,7.8,Alan Ball,2008,",Drama,Fantasy,Mystery,Romance,Thriller","Stephen Moyer,Sam Trammell,Alan Ball",You Know You're Hooked (Season 4),Follows the first book well,0.0
+309,Brand New Cherry Flavor,7.2,Nick Antosca,2021,",Drama,Horror,Mystery,Thriller","Rosa Salazar,Catherine Keener,Eric Lange",18,Good in the middle,0.0
+310,Manifest,7.1,Jeff Rake,2018,",Drama,Mystery,Sci-Fi,Thriller","Josh Dallas,J.R. Ramirez,Jeff Rake","In 2013, Flight 828 disappeared. Today, it came home.","Started out good, now it's a boring soap opera.",0.0
+311,The Chair,7.3,Amanda Peet,2021,",Comedy,Drama,Add content advisory","Sandra Oh,Jay Duplass,Bob Balaban",16,An Interesting Idea - If Only It Had Better Scripts,0.0
+312,Law & Order: Special Victims Unit,8.0,Dick Wolf,1999,",Crime,Drama,Mystery,Thriller","Christopher Meloni,Ice-T,Dick Wolf",Where Risks are Taken.,Stick a fork in it!,0.0
+313,Prisoners of the Ghostland,4.4,Sion Sono,2021,",Action,Horror,Sci-Fi,Thriller","Reza Sixo Safai,Nicolas Cage,Sofia Boutella",Information Unavailable,When you're on laced shrooms and bad LSD at a Burning Man festival in a Japanese desert.,52.0
+314,Billions,8.4,Brian Koppelman,2016,",Drama","Andrew Ross Sorkin,Paul Giamatti,Damian Lewis",Power is the ultimate currency (Season 1),Note to self; DO NOT BECOME BILLIONAIRE : )...,0.0
+315,La casa de papel,8.3,Álex Pina,2017,",Action,Crime,Mystery,Thriller","Álvaro Morte,Itziar Ituño,Álex Pina",16+,Pretty Entertaining!,0.0
+316,Sex Education,8.3,Laurie Nunn,2019,",Comedy,Drama","Gillian Anderson,Emma Mackey,Laurie Nunn",Experience is overrated.,Fantastic All Around!,0.0
+317,Zack Snyder's Justice League,8.1,Zack Snyder,2021,",Action,Adventure,Fantasy,Sci-Fi","Joe Shuster,Zack Snyder,Henry Cavill",Us United,"Incredible, far better than previous cut",54.0
+318,Palm Springs,7.4,Max Barbakow,2020,",Comedy,Fantasy,Mystery,Romance","Max Barbakow,Andy Samberg,Cristin Milioti",Live Like There's No Tomorrow,Quirky and Charming,83.0
+319,Mortal Kombat,6.1,Simon McQuoid,2021,",Action,Adventure,Fantasy,Sci-Fi,Thriller","Dave Callaham,Oren Uziel,Lewis Tan",Get over here.,"Watch if you are a MK fan, otherwise skip it",44.0
+320,Arrow,7.5,Greg Berlanti,2012,",Action,Adventure,Crime,Drama,Mystery,Sci-Fi","Andrew Kreisberg,Stephen Amell,Katie Cassidy",Destiny leaves its mark (Season 1),just give it a shot!,0.0
+321,Manifest,7.1,Jeff Rake,2018,",Drama,Mystery,Sci-Fi,Thriller","Josh Dallas,J.R. Ramirez,Jeff Rake","In 2013, Flight 828 disappeared. Today, it came home.","Started out good, now it's a boring soap opera.",0.0
+322,The Nanny,6.9,Fran Drescher,1993,",Comedy,Family,Romance","Peter Marc Jacobson,Fran Drescher,Charles Shaughnessy",TV-PG,Last Of The Female Comedians,0.0
+323,Spider-Man: Into the Spider-Verse,8.4,Bob Persichetti,2018,",Animation,Action,Adventure,Comedy,Family,Fantasy,Sci-Fi","Rodney Rothman,Phil Lord,Rodney Rothman",Enter a universe where more than one wears the mask.,"The better the art, the harder it is to find the right words to describe it.",87.0
+324,Midsommar,7.1,Ari Aster,2019,",Drama,Horror,Mystery,Thriller","Florence Pugh,Jack Reynor,Vilhelm Blomgren",Let the festivities begin,This movie was a trip,72.0
+325,Squid Game,8.3,Greg Chun,2021,",Action,Adventure,Drama,Mystery,Thriller","Paul Nakauchi,Greg Chun,Stephen Fu",45.6 Billion Won is Child's Play,Definitely one of the most well-made Netflix shows by Korea,0.0
+326,Lost,8.3,J.J. Abrams,2004,",Adventure,Drama,Fantasy,Mystery,Sci-Fi,Thriller","Damon Lindelof,Jorge Garcia,Josh Holloway",They're not the survivors they think they are. (Season Two),"Don't get turned off by the length, this is the perfect show.",0.0
+327,Archer,8.6,Adam Reed,2009,",Animation,Action,Comedy","Judy Greer,Amber Nash,Adam Reed",Espionage never tasted so salty. (season 1),Ultimate Television Entertainment!,0.0
+328,Peaky Blinders,8.8,Steven Knight,2013,",Crime,Drama","Paul Anderson,Helen McCrory,Steven Knight",The streets are theirs.,My opinion,0.0
+329,Silent Witness,7.8,Emilia Fox,1996,",Crime,Drama,Mystery","Tom Ward,Emilia Fox,William Gaminara",TV-14,A fine example of British drama,0.0
+330,Candyman,6.1,Nia DaCosta,2021,",Horror,Thriller","Win Rosenfeld,Nia DaCosta,Yahya Abdul-Mateen II",Dare to Say His Name.,Expertly crafted but clumsily written,72.0
+331,Titans,7.6,Greg Berlanti,2018,",Action,Adventure,Crime,Drama,Fantasy,Sci-Fi","Geoff Johns,Brenton Thwaites,Anna Diop",Heroes Will Rise... ...Or Gotham Will Fall.,Better than the trailer suggests,0.0
+332,Best Sellers,6.1,Lina Roessler,2021,",Comedy,Drama","Michael Caine,Aubrey Plaza,Scott Speedman",Information Unavailable,Stellar Performance,57.0
+333,Riverdale,6.8,Roberto Aguirre-Sacasa,2017,",Crime,Drama,Mystery,Romance","Lili Reinhart,Camila Mendes,Roberto Aguirre-Sacasa",A Great Place to Get Away With It All,Don't take it too seriously,0.0
+334,Bob's Burgers,8.1,Loren Bouchard,2011,",Animation,Comedy","H. Jon Benjamin,Dan Mintz,Eugene Mirman",U,Worth it,0.0
+335,Breaking Bad,9.4,Vince Gilligan,2008,",Crime,Drama,Thriller","Aaron Paul,Anna Gunn,Vince Gilligan","In the no-holds-barred world of Walt White, the end justifies the extreme. (season 2)",Best TV show ever made.,0.0
+336,Prey,4.2,Thomas Sieben,2021,",Adventure,Drama,Thriller","David Kross,Hanno Koffler,Maria Ehrich",18,The Acting Was Good...,0.0
+337,Free Guy,7.5,Shawn Levy,2021,",Action,Adventure,Comedy,Fantasy,Sci-Fi","Zak Penn,Ryan Reynolds,Jodie Comer",The world needed a hero. They got a guy.,Fun but not great,62.0
+338,Legally Blonde,6.3,Robert Luketic,2001,",Comedy,Romance","Karen McCullah,Kirsten Smith,Reese Witherspoon",Meet Elle Woods. She's a lawyer with a heart of gold...and a mane to match!,Clueless Goes to Harvard,59.0
+339,The Lord of the Rings: The Fellowship of the Ring,8.8,Peter Jackson,2001,",Action,Adventure,Drama,Fantasy","Fran Walsh,Philippa Boyens,Elijah Wood",The Legend Comes to Life,Never before in my life were my cheeks more aching...,92.0
+340,Cruella,7.4,Craig Gillespie,2021,",Adventure,Comedy,Crime,Drama","Tony McNamara,Aline Brosh McKenna,Emma Stone",Hello cruel world.,You're so dark are you sure you're not from the DC Universe,59.0
+341,Jungle Cruise,6.6,Jaume Collet-Serra,2021,",Action,Adventure,Comedy,Fantasy","Glenn Ficarra,John Requa,Dwayne Johnson",UA,jungle ride,50.0
+342,This Is Us,8.7,Dan Fogelman,2016,",Comedy,Drama,Romance","Mandy Moore,Sterling K. Brown,Dan Fogelman",This is real. This is love. This is life.,Season 5 - Crash and burn,0.0
+343,Never Been Kissed,6.1,Raja Gosnell,1999,",Comedy,Drama,Romance","Marc Silverstein,Drew Barrymore,David Arquette",The Class Clown Just Turned Chic.,Under-rated Barrymore Love Story,60.0
+344,Candyman,6.1,Nia DaCosta,2021,",Horror,Thriller","Win Rosenfeld,Nia DaCosta,Yahya Abdul-Mateen II",Dare to Say His Name.,Expertly crafted but clumsily written,72.0
+345,Dexter,8.6,James Manos Jr.,2006,",Crime,Drama,Mystery,Thriller","Jennifer Carpenter,David Zayas,James Manos Jr.",Takes life. Seriously.,Totally worth to watch each and every episodes,0.0
+346,"Love, Death & Robots",8.5,Tim Miller,2019,",Animation,Short,Action,Adventure,Comedy,Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller","Nolan North,Steven Pacey,Tim Miller",18,The Second Season...,0.0
+347,Outlander,8.4,Ronald D. Moore,2014,",Drama,Fantasy,Romance","Sam Heughan,Duncan Lacroix,Ronald D. Moore",What if your future was the past? (Season 1),Oh my heart..,0.0
+348,One Piece: Wan pîsu,8.8,Eiichiro Oda,1999,",Animation,Action,Adventure,Comedy,Drama,Fantasy","Tony Beck,Laurent Vernin,Eiichiro Oda",Set sail for One Piece!,best anime ever,0.0
+349,Star Trek: Lower Decks,7.1,Mike McMahan,2020,",Animation,Action,Adventure,Comedy,Sci-Fi","Jack Quaid,Noël Wells,Mike McMahan",Rarely going where no one has gone before.,So good!,0.0
+350,The Suicide Squad,7.3,James Gunn,2021,",Action,Adventure,Comedy,Sci-Fi","Margot Robbie,Idris Elba,John Cena",They're dying to save the world.,This movie is way better than the 2016 version,72.0
+351,Australian Gangster,5.7,Alexander Bertrand,2021,",Comedy,Crime,Drama,Add content advisory","Steve Bastoni,Alexander Bertrand,Louisa Mignone",Information Unavailable,What a waste of my time,0.0
+352,Free Guy,7.5,Shawn Levy,2021,",Action,Adventure,Comedy,Fantasy,Sci-Fi","Zak Penn,Ryan Reynolds,Jodie Comer",The world needed a hero. They got a guy.,Fun but not great,62.0
+353,Sex and the City,7.2,Darren Star,1998,",Comedy,Drama,Romance","Kim Cattrall,Kristin Davis,Darren Star",The next best thing to being there.,"Great, honest, and funny show",0.0
+354,See,7.6,Steven Knight,2019,",Action,Drama,Sci-Fi","Sylvia Hoeks,Hera Hilmar,Steven Knight",16+,Fighting scenes,0.0
+355,Shingeki no kyojin,9.0,Yûki Kaji,2013,",Animation,Action,Adventure,Drama,Fantasy,Horror","Josh Grelle,Yûki Kaji,Marina Inoue",The face of humanity's extinction. (season 1),Legendary show.,0.0
+356,A Million Little Things,7.9,D.J. Nash,2018,",Comedy,Drama,Romance","Romany Malco,Allison Miller,D.J. Nash",Friendship is...,Too much Maggie drama,0.0
+357,Dexter,8.6,James Manos Jr.,2006,",Crime,Drama,Mystery,Thriller","Jennifer Carpenter,David Zayas,James Manos Jr.",Takes life. Seriously.,Totally worth to watch each and every episodes,0.0
+358,My Son,6.0,Christian Carion,2021,",Crime,Drama,Mystery,Thriller","Laure Irrmann,James McAvoy,Claire Foy",- Rated R for language throughout and some violence.,"This ""thriller"" doesn't have either a head or a tail. [+41%]",0.0
+359,The Witcher,8.2,Lauren Schmidt,2019,",Action,Adventure,Fantasy,Mystery","Anna Shaffer,Freya Allan,Lauren Schmidt",The worst monsters are the ones we create.,Henry Cavill was terrific!,0.0
+360,Lucifer,8.1,Tom Kapinos,2016,",Crime,Drama,Fantasy","Lauren German,Kevin Alejandro,Tom Kapinos",It's Good to be Bad.,No progress whatsoever,0.0
+361,Kate,6.3,Cedric Nicolas-Troyan,2021,",Action,Adventure,Crime,Drama,Thriller","Mary Elizabeth Winstead,Woody Harrelson,Miku Patricia Martineau",There's No Time For Mercy,Everything new is old again,47.0
+362,Outlander,8.4,Ronald D. Moore,2014,",Drama,Fantasy,Romance","Sam Heughan,Duncan Lacroix,Ronald D. Moore",What if your future was the past? (Season 1),Oh my heart..,0.0
+363,Adventure Time,8.6,Pendleton Ward,2010,",Animation,Action,Adventure,Comedy,Family,Fantasy,Sci-Fi","Jeremy Shada,Tom Kenny,Pendleton Ward",TV-PG,I love this show.,0.0
+364,"Doogie Kamealoha, M.D.",5.6,Kourtney Kang,2021,",Comedy,Drama,Family,Add content advisory","Emma Meisel,Matthew Sato,Kourtney Kang","She's a genius, with a lot to learn.",Bad casting killed this show before it started.,0.0
+365,Halloween Kills,7.7,David Gordon Green,2021,",Crime,Horror,Thriller","David Gordon Green,Debra Hill,Scott MacArthur","Rated R for strong bloody violence throughout, grisly images, language and some drug use",This is what a slasher film should be.,47.0
+366,Spider-Man: No Way Home,7.5,Jon Watts,2021,",Action,Adventure,Sci-Fi,Add content advisory","Erik Sommers,Steve Ditko,Zendaya",Information Unavailable,np.nan,0.0
+367,Brand New Cherry Flavor,7.2,Nick Antosca,2021,",Drama,Horror,Mystery,Thriller","Rosa Salazar,Catherine Keener,Eric Lange",18,Good in the middle,0.0
+368,American Rust,6.9,Dan Futterman,2021,",Crime,Drama,Add content advisory","Maura Tierney,David Alvarez,Dan Futterman",TV-MA,Many emotions,0.0
+369,The Umbrella Academy,8.0,Steve Blackman,2019,",Action,Adventure,Comedy,Drama,Fantasy,Sci-Fi","Elliot Page,Tom Hopper,David Castañeda",Super Strong,Masterclass on how to use music in movies,0.0
+370,Rick and Morty,9.2,Dan Harmon,2013,",Animation,Adventure,Comedy,Sci-Fi","Justin Roiland,Chris Parnell,Spencer Grammer","Science makes sense, family doesn't.",This show is excellent,0.0
+371,Stranger Things,8.7,Matt Duffer,2016,",Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller","Millie Bobby Brown,Finn Wolfhard,Winona Ryder",The world is turning upside down. (Season 1),Season 3 feels like a parody of the show.,0.0
+372,Gilmore Girls,8.1,Amy Sherman-Palladino,2000,",Comedy,Drama","Alexis Bledel,Keiko Agena,Amy Sherman-Palladino",Life's short. Talk Fast,Welcome to their little corner of the world.,0.0
+373,Spider-Man 3,6.2,Sam Raimi,2007,",Action,Adventure,Sci-Fi","Ivan Raimi,Alvin Sargent,Tobey Maguire","Next summer, the greatest battle lies... within.",I enjoyed this movie,59.0
+374,Vivo,6.7,Kirk DeMicco,2021,",Animation,Adventure,Comedy,Family,Musical,Add content advisory","Quiara Alegría Hudes,Peter Barsocchini,Lin-Manuel Miranda",One Song Can Change Everything.,"An animated musical, sounds great",66.0
+375,Thor: Ragnarok,7.9,Taika Waititi,2017,",Action,Adventure,Comedy,Fantasy,Sci-Fi","Craig Kyle,Christopher L. Yost,Chris Hemsworth",No Hammer. No Problem.,We Are About To Find Out If Thor The God Thunder Really Exists Or Not,74.0
+376,The Conjuring: The Devil Made Me Do It,6.3,Michael Chaves,2021,",Horror,Mystery,Thriller","James Wan,Chad Hayes,Patrick Wilson",The demonic case that shocked America.,"Without Wan directing it doesn't have that same detail and dynamic, but it does continue the Warren's adventures serviceably with solid story/scares.",53.0
+377,Locke & Key,7.4,Meredith Averill,2020,",Drama,Fantasy,Horror,Mystery,Thriller","Carlton Cuse,Darby Stanchfield,Connor Jessup",18,Went from watchable to dumpster fire by Episode 7.,0.0
+378,Venom: Let There Be Carnage,7.5,Andy Serkis,2021,",Action,Sci-Fi,Thriller","Tom Hardy,Tom Hardy,Woody Harrelson","Rated PG-13 for intense sequences of violence and action, some strong language, disturbing material and suggestive references",np.nan,0.0
+379,My Son,6.0,Christian Carion,2021,",Crime,Drama,Mystery,Thriller","Laure Irrmann,James McAvoy,Claire Foy",- Rated R for language throughout and some violence.,"This ""thriller"" doesn't have either a head or a tail. [+41%]",0.0
+380,Cinderella,4.2,Kay Cannon,2021,",Adventure,Comedy,Family,Fantasy,Musical,Romance","Camila Cabello,Billy Porter,Nicholas Galitzine",The legend you know. The story you don't.,I tried to like it...,41.0
+381,Avengers: Endgame,8.4,Anthony Russo,2019,",Action,Adventure,Drama,Sci-Fi","Christopher Markus,Stephen McFeely,Stan Lee",Avenge the fallen.,The ending made all 22 movies worth it,78.0
+382,Clickbait,7.3,Tony Ayres,2021,",Crime,Drama,Mystery,Thriller","Zoe Kazan,Betty Gabriel,Phoenix Raei",Father. Husband. Brother. Liar?,Went a little far trying to make the twists,0.0
+383,Escape Room: Tournament of Champions,5.8,Adam Robitel,2021,",Action,Adventure,Horror,Mystery,Sci-Fi,Thriller","Maria Melnik,Daniel Tuch,Taylor Russell",Not Rated,Easy Cash Grab with Poorly Written Characters,48.0
+384,The Mandalorian,8.8,Jon Favreau,2019,",Action,Adventure,Sci-Fi","Gina Carano,Giancarlo Esposito,Jon Favreau",U,Dave Filoni & Jon Favreau are the future of Star Wars,0.0
+385,American Rust,6.9,Dan Futterman,2021,",Crime,Drama,Add content advisory","Maura Tierney,David Alvarez,Dan Futterman",TV-MA,Many emotions,0.0
+386,Old,5.8,M. Night Shyamalan,2021,",Drama,Horror,Mystery,Thriller","Pierre-Oscar Lévy,Frederik Peeters,Gael García Bernal",It's only a matter of time.,Same Old tricks,55.0
+387,Buffy the Vampire Slayer,8.2,Joss Whedon,1997,",Action,Drama,Fantasy,Romance","Nicholas Brendon,Alyson Hannigan,Joss Whedon",Divided by destiny. Bound by love.,Overview of BtVS,0.0
+388,Evil,7.7,Michelle King,2019,",Crime,Drama,Horror,Mystery,Thriller","Katja Herbers,Mike Colter,Aasif Mandvi",13,Surprisingly Good Show,0.0
+389,Cashback,7.1,Sean Ellis,2006,",Comedy,Drama,Romance","Sean Biggerstaff,Emilia Fox,Michelle Ryan",Sometimes love is hiding between the seconds of your life,I grooved to it,54.0
+390,The Mandalorian,8.8,Jon Favreau,2019,",Action,Adventure,Sci-Fi","Gina Carano,Giancarlo Esposito,Jon Favreau",U,Dave Filoni & Jon Favreau are the future of Star Wars,0.0
+391,Downton Abbey,8.7,Julian Fellowes,2010,",Drama,Romance","Phyllis Logan,Elizabeth McGovern,Julian Fellowes",War changes everything,"Brilliant, stylish, clever entertainment with witty script...",0.0
+392,Teen Wolf,7.6,Jeff Davis,2011,",Action,Drama,Fantasy,Romance,Thriller","Holland Roden,Dylan O'Brien,Jeff Davis",Love. Be Afraid,Better than I thought it would be (except the last season)!,0.0
+393,The Matrix Reloaded,7.2,Lana Wachowski,2003,",Action,Sci-Fi","Lilly Wachowski,Lana Wachowski,Keanu Reeves",Free your mind.,"They went for some stuff, half of them didn't land, still a decent movie",62.0
+394,Everybody's Talking About Jamie,6.3,Jonathan Butterell,2021,",Biography,Comedy,Drama,Musical","Tom MacRae,Tom MacRae,Jonathan Butterell",Show the world who you really are.,Entertaining,62.0
+395,The Green Knight,6.6,David Lowery,2021,",Adventure,Drama,Fantasy","Dev Patel,Alicia Vikander,Joel Edgerton",When honor was everything. When courage made kings.,"A Quest For Many Moral Reflections, This Green Experience Is A Tad Boring",85.0
+396,Zack Snyder's Justice League,8.1,Zack Snyder,2021,",Action,Adventure,Fantasy,Sci-Fi","Joe Shuster,Zack Snyder,Henry Cavill",Us United,"Incredible, far better than previous cut",54.0
+397,Into the Night,7.1,Jason George,2020,",Drama,Sci-Fi,Thriller","Laurent Capelluto,Mehmet Kurtulus,Jason George",Journey Into Darkness,Pleasantly surprised.,0.0
+398,Jungle Cruise,6.6,Jaume Collet-Serra,2021,",Action,Adventure,Comedy,Fantasy","Glenn Ficarra,John Requa,Dwayne Johnson",UA,jungle ride,50.0
+399,Final Space,8.3,Olan Rogers,2018,",Animation,Action,Adventure,Comedy,Drama,Fantasy,Sci-Fi","Fred Armisen,Tom Kenny,Olan Rogers",13,At 56 Age I enjoyed this thank you,0.0
+400,Star Trek: The Next Generation,8.6,Gene Roddenberry,1987,",Action,Adventure,Mystery,Sci-Fi","Brent Spiner,Jonathan Frakes,Gene Roddenberry",New Stars. New Stories. New Worlds To Explore.,A wonderful series,0.0
+401,Supergirl,6.2,Ali Adler,2015,",Action,Adventure,Drama,Sci-Fi","Andrew Kreisberg,Melissa Benoist,Chyler Leigh",It's not a bird. It's not a plane. It's not a man. It's Supergirl. (season 1),Recapturing our youth,0.0
+402,The French Dispatch,7.2,Wes Anderson,2021,",Comedy,Drama,Romance","Jason Schwartzman,Roman Coppola,Timothée Chalamet","Rated R for graphic nudity, some sexual references and language",Boring Bill Murray,82.0
+403,Boruto: Naruto Next Generations,7.0,Yûko Sanpei,2017,",Animation,Action,Adventure,Comedy,Drama,Fantasy","Ryûichi Kijima,Yûko Sanpei,Kokoro Kikuchi",Not Rated,Wait for it,0.0
+404,Family Guy,8.1,Seth MacFarlane,1999,",Animation,Comedy","Seth MacFarlane,Alex Borstein,Seth Green",Don't Die Laughing. We Could Get Sued (Season 4).,Hilarious!,0.0
+405,NCIS: Naval Criminal Investigative Service,7.7,Donald P. Bellisario,2003,",Action,Crime,Drama,Mystery,Thriller","Mark Harmon,David McCallum,Sean Murray",16,So sad a wonderful show is sinking,0.0
+406,Knives Out,7.9,Rian Johnson,2019,",Comedy,Crime,Drama,Mystery,Thriller","Daniel Craig,Chris Evans,Ana de Armas",Everyone has a motive. No one has a clue.,Nice,82.0
+407,Downton Abbey,8.7,Julian Fellowes,2010,",Drama,Romance","Phyllis Logan,Elizabeth McGovern,Julian Fellowes",War changes everything,"Brilliant, stylish, clever entertainment with witty script...",0.0
+408,La Brea,7.5,David Appelbaum,2021,",Adventure,Drama,Fantasy,Mystery,Sci-Fi,Thriller,Add content advisory","Eoin Macken,Jon Seda,David Appelbaum",One Family Torn Between Two Worlds...,np.nan,0.0
+409,Futurama,8.4,David X. Cohen,1999,",Animation,Comedy,Sci-Fi","Billy West,John DiMaggio,Katey Sagal",The future is here!,Grade A Hilarity,0.0
+410,The Good Place,8.2,Michael Schur,2016,",Comedy,Drama,Fantasy,Romance","William Jackson Harper,Jameela Jamil,Michael Schur",Welcome to The Good Place. Everything is fine. (Season 1),the good place is when a tv show is changing the world for the better,0.0
+411,The Suicide Squad,7.3,James Gunn,2021,",Action,Adventure,Comedy,Sci-Fi","Margot Robbie,Idris Elba,John Cena",They're dying to save the world.,This movie is way better than the 2016 version,72.0
+412,Succession,8.7,Jesse Armstrong,2018,",Drama","Sarah Snook,Jeremy Strong,Jesse Armstrong",Take what's yours.,Binged 2 seasons in 3 days,0.0
+413,Cry Macho,5.9,Clint Eastwood,2021,",Drama,Thriller,Western","N. Richard Nash,Clint Eastwood,Dwight Yoakam",A story of being lost... and found.,Disappointing,60.0
+414,The Vampire Diaries,7.7,Julie Plec,2009,",Drama,Fantasy,Horror,Mystery,Romance,Thriller","Nina Dobrev,Paul Wesley,Ian Somerhalder",Love sucks,Solid,0.0
+415,Hawkeye,7.5,Jeremy Renner,2021,",Action,Adventure,Crime,Drama,Mystery,Sci-Fi,Add content advisory","Florence Pugh,Jeremy Renner,Hailee Steinfeld","This Holiday Season, The Best Gifts Come with a Bow.",np.nan,0.0
+416,Halloween Kills,7.7,David Gordon Green,2021,",Crime,Horror,Thriller","David Gordon Green,Debra Hill,Scott MacArthur","Rated R for strong bloody violence throughout, grisly images, language and some drug use",This is what a slasher film should be.,47.0
+417,Resident Evil: Welcome to Raccoon City,7.5,Johannes Roberts,2021,",Action,Horror,Mystery,Sci-Fi,Add content advisory","Kaya Scodelario,Robbie Amell,Hannah John-Kamen","Rated R for strong violence and gore, and language throughout.",np.nan,0.0
+418,How I Met Your Mother,8.3,Carter Bays,2005,",Comedy,Romance","Josh Radnor,Jason Segel,Cobie Smulders",A love story in reverse.,Good laugh for late twenty-somethings,0.0
+419,Fantasy Island,5.8,Elizabeth Craft,2021,",Adventure,Drama,Fantasy,Mystery,Add content advisory","Gene Levitt,Roselyn Sanchez,Kiara Barnes",TV-14,"""Half able to pay attention""",0.0
+420,Venom,6.7,Ruben Fleischer,2018,",Action,Adventure,Sci-Fi","Scott Rosenberg,Kelly Marcel,Tom Hardy",Embrace your inner anti-hero.,Good movie. Good fun. Tom Hardy is in all the scenes.,35.0
+421,Venom: Let There Be Carnage,7.5,Andy Serkis,2021,",Action,Sci-Fi,Thriller","Tom Hardy,Tom Hardy,Woody Harrelson","Rated PG-13 for intense sequences of violence and action, some strong language, disturbing material and suggestive references",np.nan,0.0
+422,You,7.7,Sera Gamble,2018,",Crime,Drama,Romance,Thriller","Penn Badgley,Victoria Pedretti,Ambyr Childers",Not everyone wants to be followed.,Made for Penn Badgley,0.0
+423,Loki,8.4,Michael Waldron,2021,",Action,Adventure,Fantasy,Sci-Fi","Owen Wilson,Gugu Mbatha-Raw,Michael Waldron",12+,Tom Hiddleston is great but the show fails to impress...,0.0
+424,Naruto: Shippûden,8.6,Masashi Kishimoto,2007,",Animation,Action,Adventure,Comedy,Drama,Fantasy","Maile Flanagan,Kate Higgins,Masashi Kishimoto",The destruction of the Hidden Leaf Village begins.,Genuinely AMAZINGGG!!!!,0.0
+425,Candyman,6.7,Bernard Rose,1992,",Horror,Thriller","Bernard Rose,Virginia Madsen,Xander Berkeley",We dare you to say his name five times!,Adult horror strikes back,61.0
+426,Bones,7.8,Hart Hanson,2005,",Comedy,Crime,Drama,Mystery,Romance","David Boreanaz,Michaela Conlin,Hart Hanson","To Unravel A Murder, You Have To Strip It To The Bone.",So good that you are going to feel it in the bones,0.0
+427,Old,5.8,M. Night Shyamalan,2021,",Drama,Horror,Mystery,Thriller","Pierre-Oscar Lévy,Frederik Peeters,Gael García Bernal",It's only a matter of time.,Same Old tricks,55.0
+428,Game of Thrones,9.2,David Benioff,2011,",Action,Adventure,Drama,Fantasy","Emilia Clarke,Peter Dinklage,Kit Harington",Winter is coming.,Season 8 is SHHHITTTTEEEEEE,0.0
+429,Reservation Dogs,8.2,Sterlin Harjo,2021,",Comedy,Crime","Devery Jacobs,D'Pharaoh Woon-A-Tai,Lane Factor",TV-MA,Totally on point,0.0
+430,He's All That,4.3,Mark Waters,2021,",Comedy,Romance","Addison Rae,Tanner Buchanan,Madison Pettis",It's His Turn for a Makeover.,Rachael Leigh Cook was under utilized and she wasn't even Laney Boggs.,36.0
+431,Hawkeye,7.5,Jeremy Renner,2021,",Action,Adventure,Crime,Drama,Mystery,Sci-Fi,Add content advisory","Florence Pugh,Jeremy Renner,Hailee Steinfeld","This Holiday Season, The Best Gifts Come with a Bow.",np.nan,0.0
+432,Cruella,7.4,Craig Gillespie,2021,",Adventure,Comedy,Crime,Drama","Tony McNamara,Aline Brosh McKenna,Emma Stone",Hello cruel world.,You're so dark are you sure you're not from the DC Universe,59.0
+433,Loki,8.4,Michael Waldron,2021,",Action,Adventure,Fantasy,Sci-Fi","Owen Wilson,Gugu Mbatha-Raw,Michael Waldron",12+,Tom Hiddleston is great but the show fails to impress...,0.0
+434,Supernatural,8.4,Eric Kripke,2005,",Drama,Fantasy,Horror,Mystery,Thriller","Jensen Ackles,Jim Beaver,Eric Kripke",Fear is a luxury,"I'm not a shipper , I'm only an old loyal spn fan, I loved team free will with all my being and",0.0
+435,Nightbooks,5.8,David Yarovesky,2021,",Family,Fantasy,Horror,Mystery","Tobias Iaconis,J.A. White,Winslow Fegley",Write for your Life,I don't know,65.0
+436,The Wire,9.3,David Simon,2002,",Crime,Drama,Thriller","Lance Reddick,Sonja Sohn,David Simon",A new case begins... (second season),"If You Haven't Seen this show, but are considering it, please read my review.",0.0
+437,You,7.7,Sera Gamble,2018,",Crime,Drama,Romance,Thriller","Penn Badgley,Victoria Pedretti,Ambyr Childers",Not everyone wants to be followed.,Made for Penn Badgley,0.0
+438,Gunpowder Milkshake,6.0,Navot Papushado,2021,",Action,Crime,Thriller","Ehud Lavski,Karen Gillan,Lena Headey",A,Female John Wick,47.0
+439,My Son,6.0,Christian Carion,2021,",Crime,Drama,Mystery,Thriller","Laure Irrmann,James McAvoy,Claire Foy",- Rated R for language throughout and some violence.,"This ""thriller"" doesn't have either a head or a tail. [+41%]",0.0
+440,Vikings,8.5,Michael Hirst,2013,",Action,Adventure,Drama,History,Romance,War","Gustaf Skarsgård,Alexander Ludwig,Michael Hirst",The Storm Is Coming,Just finished this - I'm overwhelmed.,0.0
+441,Buffy the Vampire Slayer,8.2,Joss Whedon,1997,",Action,Drama,Fantasy,Romance","Nicholas Brendon,Alyson Hannigan,Joss Whedon",Divided by destiny. Bound by love.,Overview of BtVS,0.0
+442,Hotel Transylvania: Transformania,6.8,Derek Drymon,2021,",Animation,Adventure,Comedy,Family,Fantasy,Horror,Romance,Add content advisory","Amos Vernon,Nunzio Randazzo,Genndy Tartakovsky",Change Can Be Scary,np.nan,0.0
+443,Kate,6.3,Cedric Nicolas-Troyan,2021,",Action,Adventure,Crime,Drama,Thriller","Mary Elizabeth Winstead,Woody Harrelson,Miku Patricia Martineau",There's No Time For Mercy,Everything new is old again,47.0
+444,Doom Patrol,7.9,Jeremy Carver,2019,",Action,Adventure,Comedy,Drama,Mystery,Sci-Fi","Diane Guerrero,Matt Bomer,Jeremy Carver",TV-MA,Astonishingly good!,0.0
+445,Castlevania,8.3,Warren Ellis,2017,",Animation,Action,Adventure,Fantasy,Horror","James Callis,Alejandra Reynoso,Warren Ellis",18,one word : (AMAZING),0.0
+446,The Card Counter,6.4,Paul Schrader,2021,",Action,Crime,Drama,Thriller","Oscar Isaac,Tiffany Haddish,Tye Sheridan",He's Playing the Hand He Was Dealt,Directionless,79.0
+447,Dune,8.5,Denis Villeneuve,2021,",Action,Adventure,Drama,Sci-Fi","Denis Villeneuve,Eric Roth,Timothée Chalamet","Beyond fear, destiny awaits.",This is only the beginning!,75.0
+448,The Haunting of Hill House,8.6,Mike Flanagan,2018,",Drama,Horror,Mystery,Thriller","Carla Gugino,Henry Thomas,Mike Flanagan",You're Expected,We need more horror like this!,0.0
+449,The Blacklist,8.0,Jon Bokenkamp,2013,",Crime,Drama,Mystery,Thriller","Megan Boone,Diego Klattenhoff,Jon Bokenkamp",Never trust a criminal...until you have to. (season 1),"""Spader's Show""",0.0
+450,Stranger Things,8.7,Matt Duffer,2016,",Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller","Millie Bobby Brown,Finn Wolfhard,Winona Ryder",The world is turning upside down. (Season 1),Season 3 feels like a parody of the show.,0.0
+451,She's All That,5.9,Robert Iscove,1999,",Comedy,Romance","Freddie Prinze Jr.,Rachael Leigh Cook,Matthew Lillard",A new comedy that proves there's more to attraction than meets the eye.,Moments in Time,51.0
+452,The Tomorrow War,6.6,Chris McKay,2021,",Action,Adventure,Drama,Sci-Fi,Thriller","Chris Pratt,Yvonne Strahovski,J.K. Simmons",13,Pratt lifts it up,45.0
+453,Free Guy,7.5,Shawn Levy,2021,",Action,Adventure,Comedy,Fantasy,Sci-Fi","Zak Penn,Ryan Reynolds,Jodie Comer",The world needed a hero. They got a guy.,Fun but not great,62.0
+454,Kate,6.3,Cedric Nicolas-Troyan,2021,",Action,Adventure,Crime,Drama,Thriller","Mary Elizabeth Winstead,Woody Harrelson,Miku Patricia Martineau",There's No Time For Mercy,Everything new is old again,47.0
+455,Midnight Mass,7.9,Mike Flanagan,2021,",Drama,Horror,Mystery","Zach Gilford,Kristin Lehman,Mike Flanagan",Be Not Afraid,This horror was meant for the inner intentions,0.0
+456,Spider-Man: Homecoming,7.4,Jon Watts,2017,",Action,Adventure,Sci-Fi","John Francis Daley,Jon Watts,Tom Holland",Homework can wait. The city can't.,Not bad but not great,73.0
+457,Cruella,7.4,Craig Gillespie,2021,",Adventure,Comedy,Crime,Drama","Tony McNamara,Aline Brosh McKenna,Emma Stone",Hello cruel world.,You're so dark are you sure you're not from the DC Universe,59.0
+458,Doom Patrol,7.9,Jeremy Carver,2019,",Action,Adventure,Comedy,Drama,Mystery,Sci-Fi","Diane Guerrero,Matt Bomer,Jeremy Carver",TV-MA,Astonishingly good!,0.0
+459,Vikings,8.5,Michael Hirst,2013,",Action,Adventure,Drama,History,Romance,War","Gustaf Skarsgård,Alexander Ludwig,Michael Hirst",The Storm Is Coming,Just finished this - I'm overwhelmed.,0.0
+460,Into the Night,7.1,Jason George,2020,",Drama,Sci-Fi,Thriller","Laurent Capelluto,Mehmet Kurtulus,Jason George",Journey Into Darkness,Pleasantly surprised.,0.0
+461,Luca,7.5,Enrico Casarosa,2021,",Animation,Adventure,Comedy,Family,Fantasy","Jesse Andrews,Simon Stephenson,Jacob Tremblay",PG,Refreshing Animated film,71.0
+462,Walker,6.0,Anna Fricke,2021,",Action,Crime,Drama,Western,Add content advisory","Lindsey Morgan,Molly Hagan,Anna Fricke",13,Like the original without the action,0.0
+463,The Matrix Reloaded,7.2,Lana Wachowski,2003,",Action,Sci-Fi","Lilly Wachowski,Lana Wachowski,Keanu Reeves",Free your mind.,"They went for some stuff, half of them didn't land, still a decent movie",62.0
+464,Reminiscence,5.9,Lisa Joy,2021,",Mystery,Romance,Sci-Fi,Thriller","Hugh Jackman,Rebecca Ferguson,Thandiwe Newton",Don't Look Back,"Gentle Sci-fi Noir, respectful of the genre.",46.0
+465,Snake Eyes: G.I. Joe Origins,5.4,Robert Schwentke,2021,",Action,Adventure,Fantasy,Sci-Fi,Thriller","Joe Shrapnel,Anna Waterhouse,Henry Golding",A legendary warrior. His epic origin story.,NO MORE SHAKY CAM PLEASE!,43.0
+466,WandaVision,8.0,Jac Schaeffer,2021,",Action,Comedy,Drama,Fantasy,Sci-Fi","Paul Bettany,Kathryn Hahn,Jac Schaeffer",Marvel Studios presents a visionary new age of television.,A great show!,0.0
+467,Private Practice,6.7,Shonda Rhimes,2007,",Comedy,Drama,Romance","Paul Adelstein,KaDee Strickland,Shonda Rhimes",TV-14,Simple Characters,0.0
+468,The Voyeurs,5.9,Michael Mohan,2021,",Drama,Mystery,Thriller","Sydney Sweeney,Justice Smith,Ben Hardy",A,Only for die hard Sydney Sweeney fans.,54.0
+469,Castle,8.1,Andrew W. Marlowe,2009,",Comedy,Crime,Drama,Mystery,Romance","Stana Katic,Susan Sullivan,Andrew W. Marlowe",A whole new chapter in crime solving. (Season 1),"Fillion is ""King"" Of This CASTLE...",0.0
+470,What We Do in the Shadows,8.5,Jemaine Clement,2016,",Comedy,Fantasy,Horror","Matt Berry,Natasia Demetriou,Jemaine Clement",15+,A work of comedic art!,0.0
+471,Eternals,7.5,Chloé Zhao,2021,",Action,Adventure,Drama,Fantasy,Sci-Fi,Add content advisory","Patrick Burleigh,Ryan Firpo,Gemma Chan",In the beginning...,np.nan,0.0
+472,American Horror Story,8.0,Brad Falchuk,2011,",Drama,Horror,Thriller","Lady Gaga,Kathy Bates,Angela Bassett",Get committed,finally a good haunted house story,0.0
+473, Kingdom,8.4,Ju Ji-Hoon,2019,",Action,Drama,History,Horror,Thriller","Kim Sungkyu,Ju Ji-Hoon,Bae Doona",18,Good horror drama,0.0
+474,Legends of Tomorrow,6.8,Phil Klemmer,2016,",Action,Adventure,Drama,Sci-Fi","Marc Guggenheim,Caity Lotz,Amy Louise Pemberton",Their time is now (Season 1),It's ridiculous but fun!,0.0
+475,The Card Counter,6.4,Paul Schrader,2021,",Action,Crime,Drama,Thriller","Oscar Isaac,Tiffany Haddish,Tye Sheridan",He's Playing the Hand He Was Dealt,Directionless,79.0
+476,The Cleaner,7.0,Greg Davies,2021,",Comedy,Add content advisory","Helena Bonham Carter,Greg Davies,Zita Sattar",Information Unavailable,"Dark, funny and moving",0.0
+477,The Handmaid's Tale,8.4,Bruce Miller,2017,",Drama,Sci-Fi,Thriller","Yvonne Strahovski,Joseph Fiennes,Bruce Miller",We will bear no more,You think you have seen horror films?,0.0
+478,The Lost Symbol,7.0,Jay Beattie,2021,",Action,Adventure,Drama,Mystery,Thriller,Add content advisory","Ashley Zukerman,Eddie Izzard,Valorie Curry",Information Unavailable,generic,0.0
+479,No Time to Die,7.5,Cary Joji Fukunaga,2021,",Action,Adventure,Thriller,Add content advisory","Robert Wade,Cary Joji Fukunaga,Daniel Craig",Bond is Back,np.nan,0.0
+480,Slasher,6.7,Aaron Martin,2016,",Crime,Drama,Horror,Mystery,Thriller","Paula Brancati,Joanne Vannicola,Aaron Martin",Everyone in this town has a past. Not everyone has a future.,Horror anthology as it should be,0.0
+481,F9,5.2,Justin Lin,2021,",Action,Adventure,Crime,Thriller","Justin Lin,Alfredo Botello,Vin Diesel",Fast Family Forever,Stop.,58.0
+482,Once Upon a Time,7.7,Adam Horowitz,2011,",Adventure,Fantasy,Romance","Ginnifer Goodwin,Jennifer Morrison,Lana Parrilla",Magic is coming. (season 1),Don't watch all the seasons,0.0
+483,Escape Room: Tournament of Champions,5.8,Adam Robitel,2021,",Action,Adventure,Horror,Mystery,Sci-Fi,Thriller","Maria Melnik,Daniel Tuch,Taylor Russell",Not Rated,Easy Cash Grab with Poorly Written Characters,48.0
+484,Doom Patrol,7.9,Jeremy Carver,2019,",Action,Adventure,Comedy,Drama,Mystery,Sci-Fi","Diane Guerrero,Matt Bomer,Jeremy Carver",TV-MA,Astonishingly good!,0.0
+485,Deadpool,8.0,Tim Miller,2016,",Action,Adventure,Comedy,Sci-Fi","Paul Wernick,Ryan Reynolds,Morena Baccarin",With great power comes great irresponsibility.,Underrated fun!!,65.0
+486,After,5.3,Jenny Gage,2019,",Drama,Romance","Tamara Chestna,Jenny Gage,Josephine Langford","After Your First, Life is Never the Same.",STOP Romanticizing Toxic Relationships!,30.0
+487,Homeland,8.3,Alex Gansa,2011,",Crime,Drama,Mystery,Thriller","Claire Danes,Mandy Patinkin,Damian Lewis",The nation sees a hero. She sees a threat.. (Season 1),Miss It!,0.0
+488,365 dni,3.3,Barbara Bialowas,2020,",Drama,Romance","Tomasz Klimala,Tomasz Mandes,Barbara Bialowas",A,Spoiler alert: it's pretty bad,0.0
+489,Guardians of the Galaxy Vol. 2,7.6,James Gunn,2017,",Action,Adventure,Comedy,Sci-Fi","Dan Abnett,Andy Lanning,Chris Pratt","This summer, the galaxy won't save itself.",A decent sequel,67.0
+490,The Many Saints of Newark,7.4,Alan Taylor,2021,",Crime,Drama","Lawrence Konner,Alessandro Nivola,Leslie Odom Jr.",A Sopranos Story,"Thoroughly enjoyed it but recommend rewatching episodes 'Down Neck', and 'For All Debts Public and Private' beforehand",66.0
+491,The Boys,8.7,Eric Kripke,2019,",Action,Crime,Drama,Sci-Fi","Jack Quaid,Antony Starr,Eric Kripke",Never Meet Your Heroes,"Just... Wow. Dark, funny and gripping.",0.0
+492,American Crime Story,8.4,Scott Alexander,2016,",Biography,Crime,Drama","Tom Rob Smith,Sarah Paulson,Annaleigh Ashford",The trial isn't the whole story. This is.,True representation of truth.,0.0
+493,The Witcher,8.2,Lauren Schmidt,2019,",Action,Adventure,Fantasy,Mystery","Anna Shaffer,Freya Allan,Lauren Schmidt",The worst monsters are the ones we create.,Henry Cavill was terrific!,0.0
+494,My Son,6.0,Christian Carion,2021,",Crime,Drama,Mystery,Thriller","Laure Irrmann,James McAvoy,Claire Foy",- Rated R for language throughout and some violence.,"This ""thriller"" doesn't have either a head or a tail. [+41%]",0.0
+495,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,6.1,Cathy Yan,2020,",Action,Adventure,Comedy,Crime","Paul Dini,Bruce Timm,Margot Robbie",Mind Over Mayhem,Worth a watch,60.0
+496,Mortal Kombat,6.1,Simon McQuoid,2021,",Action,Adventure,Fantasy,Sci-Fi,Thriller","Dave Callaham,Oren Uziel,Lewis Tan",Get over here.,"Watch if you are a MK fan, otherwise skip it",44.0
+497,Ant-Man,7.3,Peyton Reed,2015,",Action,Adventure,Comedy,Sci-Fi","Joe Cornish,Adam McKay,Paul Rudd",Heroes don't get any bigger.,Mammoth in its Tiniest Form,64.0
+498,Osmosis Jones,6.3,Bobby Farrelly,2001,",Animation,Action,Adventure,Comedy,Crime,Family,Fantasy,Sci-Fi","Marc Hyman,Laurence Fishburne,Chris Rock",An epic adventure of microscopic proportions.,"Not extremely funny, but it sure is imaginative and energetic. ***1/2 (out of four).",57.0
+499,Osmosis Jones,6.3,Bobby Farrelly,2001,",Animation,Action,Adventure,Comedy,Crime,Family,Fantasy,Sci-Fi","Marc Hyman,Laurence Fishburne,Chris Rock",An epic adventure of microscopic proportions.,"Not extremely funny, but it sure is imaginative and energetic. ***1/2 (out of four).",57.0
+500,Wrong Turn,5.5,Mike P. Nelson,2021,",Horror,Thriller","Charlotte Vega,Adain Bradley,Bill Sage",This land is their land,The Hills have Rednecks,46.0
+501,Criminal Minds,8.1,Jeff Davis,2005,",Crime,Drama,Mystery,Thriller","Kirsten Vangsness,A.J. Cook,Jeff Davis","To catch a criminal, you have to think like one.",Is it Just Me or....,0.0
+502,Shameless,8.5,Paul Abbott,2011,",Comedy,Drama","Emmy Rossum,William H. Macy,Ethan Cutkosky","The Gallaghers. Absolutely, Wildly, Unapologetically... Shameless (Season 1)",Keep Watching,0.0
+503,Spider-Man,7.3,Sam Raimi,2002,",Action,Adventure,Sci-Fi","Steve Ditko,David Koepp,Tobey Maguire",With great power comes great responsibility.,Amazingly Spectacularly Great,73.0
+504,Star Trek: Lower Decks,7.1,Mike McMahan,2020,",Animation,Action,Adventure,Comedy,Sci-Fi","Jack Quaid,Noël Wells,Mike McMahan",Rarely going where no one has gone before.,So good!,0.0
+505,BoJack Horseman,8.7,Raphael Bob-Waksberg,2014,",Animation,Comedy,Drama","Amy Sedaris,Alison Brie,Raphael Bob-Waksberg",Don't look back. You're not going that way.,The Real Real,0.0
+506,The Walking Dead,8.2,Frank Darabont,2010,",Drama,Horror,Thriller","Norman Reedus,Melissa McBride,Frank Darabont",Fight the dead. Fear the living.,Love Show BUT The Writers/Producers Need To Get Back To War Against Walkers!!!,0.0
+507,Ready or Not,6.9,Matt Bettinelli-Olpin,2019,",Action,Comedy,Horror,Mystery,Thriller","Guy Busick,R. Christopher Murphy,Samara Weaving",The Game Begins,Hilarious Horror FilM,64.0
+508,Two and a Half Men,7.0,Lee Aronsohn,2003,",Comedy,Romance","Jon Cryer,Ashton Kutcher,Angus T. Jones",Charlie Lives! (syndication),Three Words,0.0
+509,Lucifer,8.1,Tom Kapinos,2016,",Crime,Drama,Fantasy","Lauren German,Kevin Alejandro,Tom Kapinos",It's Good to be Bad.,No progress whatsoever,0.0
+510,Only Murders in the Building,8.3,John Hoffman,2021,",Comedy,Crime,Drama,Mystery,Thriller","Steve Martin,Martin Short,Selena Gomez",Every Body Has a Secret,"Witty, fun and Selena Gomez really shines surprisingly!",0.0
+511,Mortal Kombat,6.1,Simon McQuoid,2021,",Action,Adventure,Fantasy,Sci-Fi,Thriller","Dave Callaham,Oren Uziel,Lewis Tan",Get over here.,"Watch if you are a MK fan, otherwise skip it",44.0
+512,How I Met Your Mother,8.3,Carter Bays,2005,",Comedy,Romance","Josh Radnor,Jason Segel,Cobie Smulders",A love story in reverse.,Good laugh for late twenty-somethings,0.0
+513,Y: The Last Man,6.5,Diane Lane,2021,",Action,Adventure,Drama,Sci-Fi","Ben Schnetzer,Diane Lane,Ashley Romans",TV-14,They don't know how to make a show,0.0
+514,The Originals,8.2,Julie Plec,2013,",Drama,Fantasy,Horror,Mystery","Daniel Gillies,Claire Holt,Julie Plec",Retaining whats ours by helping others,TVD spin-off show is better than the main show,0.0
+515,Nightmare Alley,7.5,Guillermo del Toro,2021,",Action,Crime,Drama,Thriller,Add content advisory","Kim Morgan,William Lindsay Gresham,Bradley Cooper","Rated R for strong/bloody violence, some sexual content, nudity and language",np.nan,0.0
+516,Good Girls,7.8,Jenna Bans,2018,",Comedy,Crime,Drama","Retta,Mae Whitman,Jenna Bans",Done Playing Nice,Second season sucks,0.0
+517,Retfærdighedens ryttere,7.6,Anders Thomas Jensen,2020,",Action,Comedy,Drama","Anders Thomas Jensen,Mads Mikkelsen,Nikolaj Lie Kaas",Someone is going to pay.,You Know These People...,81.0
+518,The Green Knight,6.6,David Lowery,2021,",Adventure,Drama,Fantasy","Dev Patel,Alicia Vikander,Joel Edgerton",When honor was everything. When courage made kings.,"A Quest For Many Moral Reflections, This Green Experience Is A Tad Boring",85.0
+519,The Matrix,8.7,Lana Wachowski,1999,",Action,Sci-Fi","Lilly Wachowski,Lana Wachowski,Keanu Reeves",Free your mind,"Immensely entertaining, intriguingly philosophical and just about one of the best films ever made!",73.0
+520,Escape Room,6.4,Adam Robitel,2019,",Action,Adventure,Horror,Mystery,Sci-Fi,Thriller","Maria Melnik,Taylor Russell,Logan Miller",Solve the Puzzle. Escape the Room. Find the clues or die.,A fun little thriller.,48.0
+521,Lucifer,8.1,Tom Kapinos,2016,",Crime,Drama,Fantasy","Lauren German,Kevin Alejandro,Tom Kapinos",It's Good to be Bad.,No progress whatsoever,0.0
+522,Daredevil,8.6,Drew Goddard,2015,",Action,Crime,Drama,Fantasy,Sci-Fi,Thriller","Vincent D'Onofrio,Deborah Ann Woll,Drew Goddard",The man without fear,''Daredevil'' the real ''Dark Knight'' of Marvel.,0.0
+523,Copshop,6.7,Joe Carnahan,2021,",Action,Crime,Thriller","Joe Carnahan,Mark Williams,Frank Grillo",Someone's Gotta Take The Hit,"Good Start Then Spiralled Down, Don't Bother!",61.0
+524,Hawkeye,7.5,Jeremy Renner,2021,",Action,Adventure,Crime,Drama,Mystery,Sci-Fi,Add content advisory","Florence Pugh,Jeremy Renner,Hailee Steinfeld","This Holiday Season, The Best Gifts Come with a Bow.",np.nan,0.0
+525,The School of Rock,7.1,Richard Linklater,2003,",Comedy,Music","Jack Black,Mike White,Joan Cusack",Heavy mental... Take notes.,Jack Black is Back!  Better than Ever!,82.0
+526,Ted Lasso,8.8,Brendan Hunt,2020,",Comedy,Drama,Sport","Bill Lawrence,Jason Sudeikis,Hannah Waddingham",Out of His League,So much heart in a tv series... was unexpected,0.0
+527,Silent Witness,7.8,Emilia Fox,1996,",Crime,Drama,Mystery","Tom Ward,Emilia Fox,William Gaminara",TV-14,A fine example of British drama,0.0
+528,Naruto,8.3,Masashi Kishimoto,2002,",Animation,Action,Adventure,Comedy,Fantasy","Maile Flanagan,Kate Higgins,Masashi Kishimoto",16,"A brief description and opinion about the Japanese Anime TV Series ""Naruto.""",0.0
+529,Ozark,8.4,Bill Dubuque,2017,",Crime,Drama,Thriller","Jason Bateman,Laura Linney,Sofia Hublitz",Their last resort,One of the best series going around,0.0
+530,The Matrix Revolutions,6.8,Lana Wachowski,2003,",Action,Sci-Fi","Lilly Wachowski,Lana Wachowski,Keanu Reeves",Everything that has a beginning has an end.,"Another big disappointing sequel to ""The Matrix,""",47.0
+531,Bones,7.8,Hart Hanson,2005,",Comedy,Crime,Drama,Mystery,Romance","David Boreanaz,Michaela Conlin,Hart Hanson","To Unravel A Murder, You Have To Strip It To The Bone.",So good that you are going to feel it in the bones,0.0
+532,Supernatural,8.4,Eric Kripke,2005,",Drama,Fantasy,Horror,Mystery,Thriller","Jensen Ackles,Jim Beaver,Eric Kripke",Fear is a luxury,"I'm not a shipper , I'm only an old loyal spn fan, I loved team free will with all my being and",0.0
+533,The Matrix Resurrections,7.5,Lana Wachowski,2021,",Action,Sci-Fi,Add content advisory","David Mitchell,Aleksandar Hemon,Keanu Reeves",Information Unavailable,np.nan,0.0
+534,Shingeki no kyojin,9.0,Yûki Kaji,2013,",Animation,Action,Adventure,Drama,Fantasy,Horror","Josh Grelle,Yûki Kaji,Marina Inoue",The face of humanity's extinction. (season 1),Legendary show.,0.0
+535,The Orville,8.0,Seth MacFarlane,2017,",Adventure,Comedy,Drama,Sci-Fi","Adrianne Palicki,Penny Johnson Jerald,Seth MacFarlane",12+,I hope the audience is big enough,0.0
+536,Eternals,7.5,Chloé Zhao,2021,",Action,Adventure,Drama,Fantasy,Sci-Fi,Add content advisory","Patrick Burleigh,Ryan Firpo,Gemma Chan",In the beginning...,np.nan,0.0
+537,Midsomer Murders,7.7,Caroline Graham,1997,",Crime,Drama,Mystery","Jane Wymark,Barry Jackson,Caroline Graham",The deadliest county in England.,Excellent,0.0
+538,Bhoot Police,6.9,Pawan Kripalani,2021,",Comedy,Horror","Pawan Kripalani,Devashish Makhija,Saif Ali Khan",UA 16+,Mindless Entertainment...dont go by critiques...,0.0
+539,Doom Patrol,7.9,Jeremy Carver,2019,",Action,Adventure,Comedy,Drama,Mystery,Sci-Fi","Diane Guerrero,Matt Bomer,Jeremy Carver",TV-MA,Astonishingly good!,0.0
+540,Nine Perfect Strangers,7.2,John-Henry Butterworth,2021,",Drama,Mystery,Thriller","Nicole Kidman,Melissa McCarthy,Michael Shannon",Welcome to Tranquillum,Michael Shannon has some incredible range.,0.0
+541,F9,5.2,Justin Lin,2021,",Action,Adventure,Crime,Thriller","Justin Lin,Alfredo Botello,Vin Diesel",Fast Family Forever,Stop.,58.0
+542,Q-Force,6.2,Gabe Liedman,2021,",Animation,Action,Adventure,Comedy,Crime,Fantasy,Sci-Fi","David Harbour,Patti Harrison,Gabe Liedman",A Queer and Present Danger,Legitimately funny and entertaining.,0.0
+543,Spider-Man: Into the Spider-Verse,8.4,Bob Persichetti,2018,",Animation,Action,Adventure,Comedy,Family,Fantasy,Sci-Fi","Rodney Rothman,Phil Lord,Rodney Rothman",Enter a universe where more than one wears the mask.,"The better the art, the harder it is to find the right words to describe it.",87.0
+544,The Handmaid's Tale,8.4,Bruce Miller,2017,",Drama,Sci-Fi,Thriller","Yvonne Strahovski,Joseph Fiennes,Bruce Miller",We will bear no more,You think you have seen horror films?,0.0
+545,Westworld,8.6,Lisa Joy,2016,",Drama,Mystery,Sci-Fi","Evan Rachel Wood,Jeffrey Wright,Ed Harris",Where life begins. (Season 1),"Fight scenes, fight scenes, fight scenes...",0.0
+546,Hereditary,7.3,Ari Aster,2018,",Drama,Horror,Mystery,Thriller","Toni Collette,Milly Shapiro,Gabriel Byrne",Every family tree hides a secret.,Almost works better as a drama than a horror,87.0
+547,La La Land,8.0,Damien Chazelle,2016,",Comedy,Drama,Music,Musical,Romance","Ryan Gosling,Emma Stone,Rosemarie DeWitt",Here's to the fools who dream.,The best movie of 2016,94.0
+548,Shang-Chi and the Legend of the Ten Rings,7.9,Destin Daniel Cretton,2021,",Action,Adventure,Fantasy,Sci-Fi","Destin Daniel Cretton,Andrew Lanham,Simu Liu",A Marvel legend will rise.,Best non-avengers MCU movie,71.0
+549,The King's Man,7.5,Matthew Vaughn,2021,",Action,Adventure,Comedy,Crime,Thriller,Add content advisory","Karl Gajdusek,Mark Millar,Ralph Fiennes","Rated R for sequences of strong/bloody violence, language, and some sexual material",np.nan,0.0
+550,Gotham,7.8,Bruno Heller,2014,",Action,Crime,Drama,Mystery,Sci-Fi,Thriller","Jada Pinkett Smith,Donal Logue,Bruno Heller",The good. The evil. The beginning.,Gotham hits all the right notes,0.0
+551,Don't Look Up,7.5,Adam McKay,2021,",Comedy,Drama,Sci-Fi,Add content advisory","David Sirota,Timothée Chalamet,Leonardo DiCaprio","Rated R for language throughout, some sexual content, graphic nudity and drug content",np.nan,0.0
+552,Spider-Man: No Way Home,7.5,Jon Watts,2021,",Action,Adventure,Sci-Fi,Add content advisory","Erik Sommers,Steve Ditko,Zendaya",Information Unavailable,np.nan,0.0
+553,Cobra Kai,8.6,Josh Heald,2018,",Action,Comedy,Drama,Sport","Hayden Schlossberg,Courtney Henggeler,Mary Mouser",The KARATE KID saga continues. (Season 1),"ITS SO GOOD, ITS UNBELIEVABLE",0.0
+554,A Quiet Place,7.5,John Krasinski,2018,",Drama,Horror,Sci-Fi","Scott Beck,John Krasinski,Emily Blunt","If they hear you, they hunt you.",Incredibly effective despite small problems,82.0
+555,Deadpool,8.0,Tim Miller,2016,",Action,Adventure,Comedy,Sci-Fi","Paul Wernick,Ryan Reynolds,Morena Baccarin",With great power comes great irresponsibility.,Underrated fun!!,65.0
+556,Hunter x Hunter,9.0,Yoshihiro Togashi,2011,",Animation,Action,Adventure,Comedy,Fantasy","Megumi Han,Cristina Valenzuela,Yoshihiro Togashi",16,An incredible work that now continues,0.0
+557,Gossip Girl,5.3,Joshua Safran,2021,",Drama,Romance","Josh Schwartz,Jordan Alexander,Whitney Peak",Reputations with be Shattered.,They missed the mark,0.0
+558,Smallville,7.5,Alfred Gough,2001,",Adventure,Drama,Romance,Sci-Fi","Tom Welling,Michael Rosenbaum,Allison Mack","His journey, their battle, our future.",Super.,0.0
+559,Blue's Clues,6.9,Angela Santomero,1996,",Animation,Comedy,Family,Musical","Traci Paige Johnson,Steve Burns,Traci Paige Johnson","To empower, challenge and build the self-esteem of preschoolers...all while making them laugh!",Positively Sweet,0.0
+560,Titans,7.6,Greg Berlanti,2018,",Action,Adventure,Crime,Drama,Fantasy,Sci-Fi","Geoff Johns,Brenton Thwaites,Anna Diop",Heroes Will Rise... ...Or Gotham Will Fall.,Better than the trailer suggests,0.0
+561,Mare of Easttown,8.5,Brad Ingelsby,2021,",Crime,Drama,Mystery","Julianne Nicholson,Jean Smart,Brad Ingelsby",All Truths Come to Light,Winslet won me over!,0.0
+562,The Punisher,8.5,Steve Lightfoot,2017,",Action,Crime,Drama,Thriller","Amber Rose Revah,Ben Barnes,Steve Lightfoot",The truth must be taken.,Jon Bernthal is perfect as the Punisher!,0.0
+563,Free Guy,7.5,Shawn Levy,2021,",Action,Adventure,Comedy,Fantasy,Sci-Fi","Zak Penn,Ryan Reynolds,Jodie Comer",The world needed a hero. They got a guy.,Fun but not great,62.0
+564,Modern Family,8.4,Steven Levitan,2009,",Comedy,Drama,Romance","Ed O'Neill,Sofía Vergara,Julie Bowen","One big (straight, gay, multi-cultural, traditional) happy family.","Laugh-out-loud ensemble comedy; a ""The Office""/""Arrested Development"" hybrid (almost...)",0.0
+565,Jujutsu Kaisen,8.7,Junya Enoki,2020,",Animation,Action,Adventure,Fantasy,Thriller","Yûichi Nakamura,Junya Enoki,Adam McArthur",16,Promising,0.0
+566,Game of Thrones,9.2,David Benioff,2011,",Action,Adventure,Drama,Fantasy","Emilia Clarke,Peter Dinklage,Kit Harington",Winter is coming.,Season 8 is SHHHITTTTEEEEEE,0.0
+567,The Girl Next Door,6.7,Luke Greenfield,2004,",Comedy,Drama,Romance","Brent Goldberg,Stuart Blumberg,Emile Hirsch",Matt never saw her coming... but all his friends had!,Timothy Olyphant shines,47.0
+568,Wonder Woman 1984,5.4,Patty Jenkins,2020,",Action,Adventure,Fantasy","Geoff Johns,Dave Callaham,Gal Gadot",A new era of wonder begins.,Boring,60.0
+569,Raya and the Last Dragon,7.4,Don Hall,2021,",Animation,Action,Adventure,Comedy,Family,Fantasy","Paul Briggs,Qui Nguyen,Adele Lim",U,All this hate ... why?,75.0
+570,Hawkeye,7.5,Jeremy Renner,2021,",Action,Adventure,Crime,Drama,Mystery,Sci-Fi,Add content advisory","Florence Pugh,Jeremy Renner,Hailee Steinfeld","This Holiday Season, The Best Gifts Come with a Bow.",np.nan,0.0
+571,The North Water,7.7,Jack O'Connell,2021,",Drama,Mystery","Sam Spruell,Jack O'Connell,Colin Farrell",TV-MA,Brilliant,0.0
+572,The Matrix Revolutions,6.8,Lana Wachowski,2003,",Action,Sci-Fi","Lilly Wachowski,Lana Wachowski,Keanu Reeves",Everything that has a beginning has an end.,"Another big disappointing sequel to ""The Matrix,""",47.0
+573,Invincible,8.7,Robert Kirkman,2021,",Animation,Action,Adventure,Drama,Fantasy,Sci-Fi,Thriller","Cory Walker,Steven Yeun,J.K. Simmons",18,"Compelling story with great action, but not without it's flaws.",0.0
+574,The Boys,8.7,Eric Kripke,2019,",Action,Crime,Drama,Sci-Fi","Jack Quaid,Antony Starr,Eric Kripke",Never Meet Your Heroes,"Just... Wow. Dark, funny and gripping.",0.0
+575,Halloween Kills,7.7,David Gordon Green,2021,",Crime,Horror,Thriller","David Gordon Green,Debra Hill,Scott MacArthur","Rated R for strong bloody violence throughout, grisly images, language and some drug use",This is what a slasher film should be.,47.0
+576,Men in Black,7.3,Barry Sonnenfeld,1997,",Action,Adventure,Comedy,Sci-Fi","Ed Solomon,Tommy Lee Jones,Will Smith",Protecting the earth from the scum of the universe,One of the best sci-fi comedies ever made.,71.0
+577,Jerry Maguire,7.3,Cameron Crowe,1996,",Comedy,Drama,Romance,Sport","Tom Cruise,Cuba Gooding Jr.,Renée Zellweger",Everybody loved him...  Everybody disappeared.,An amazing film,77.0
+578,The Voyeurs,5.9,Michael Mohan,2021,",Drama,Mystery,Thriller","Sydney Sweeney,Justice Smith,Ben Hardy",A,Only for die hard Sydney Sweeney fans.,54.0
+579,Snake Eyes: G.I. Joe Origins,5.4,Robert Schwentke,2021,",Action,Adventure,Fantasy,Sci-Fi,Thriller","Joe Shrapnel,Anna Waterhouse,Henry Golding",A legendary warrior. His epic origin story.,NO MORE SHAKY CAM PLEASE!,43.0
+580,The Flash,7.6,Greg Berlanti,2014,",Action,Adventure,Drama,Sci-Fi","Andrew Kreisberg,Grant Gustin,Candice Patton",Discover what makes a hero (Season 1),Excellent start but fades away..,0.0
+581,What If...?,7.6,Jeffrey Wright,2021,",Animation,Action,Adventure,Fantasy","Matthew Wood,Jeffrey Wright,Terri Douglas",Enter the Multiverse of infinite possibilities,"Marvel, please take your cue from the original series!",0.0
+582,The Big Bang Theory,8.1,Chuck Lorre,2007,",Comedy,Romance","Johnny Galecki,Jim Parsons,Kaley Cuoco",Smart Is The New Sexy.,Can't Get Enough,0.0
+583,Squid Game,8.3,Greg Chun,2021,",Action,Adventure,Drama,Mystery,Thriller","Paul Nakauchi,Greg Chun,Stephen Fu",45.6 Billion Won is Child's Play,Definitely one of the most well-made Netflix shows by Korea,0.0
+584,Good Girls,7.8,Jenna Bans,2018,",Comedy,Crime,Drama","Retta,Mae Whitman,Jenna Bans",Done Playing Nice,Second season sucks,0.0
+585,Fantasy Island,5.8,Elizabeth Craft,2021,",Adventure,Drama,Fantasy,Mystery,Add content advisory","Gene Levitt,Roselyn Sanchez,Kiara Barnes",TV-14,"""Half able to pay attention""",0.0
+586,South Park,8.7,Trey Parker,1997,",Animation,Comedy","Brian Graden,Trey Parker,Matt Stone",Four boys. One f**ked up town.,"Comedy Central's marquee series. The very best political, pop culture and current event satire on television.",0.0
+587,Bridgerton,7.3,Chris Van Dusen,2020,",Drama,Romance","Regé-Jean Page,Nicola Coughlan,Chris Van Dusen",18,"A fun, dramatic, fantasty gulity pleasure.",0.0
+588,Suicide Squad,5.9,David Ayer,2016,",Action,Adventure,Fantasy,Sci-Fi","John Ostrander,Will Smith,Jared Leto",Justice has a bad side.,One of the Most Lifeless Action Movies I've Ever Seen,40.0
+589,Locke & Key,7.4,Meredith Averill,2020,",Drama,Fantasy,Horror,Mystery,Thriller","Carlton Cuse,Darby Stanchfield,Connor Jessup",18,Went from watchable to dumpster fire by Episode 7.,0.0
+590,The X Files,8.6,Chris Carter,1993,",Crime,Drama,Mystery,Sci-Fi,Thriller","Gillian Anderson,Mitch Pileggi,Chris Carter",Apology Is Policy,One of the best shows on television,0.0
+591,Candy,8.8,Debojit Das Purkayastha,2021,",Thriller","Ronit Roy,Richa Chadha,Manu Rishi Chadha",UA 16+,Lit series!,0.0
+592,Get Out,7.7,Jordan Peele,2017,",Horror,Mystery,Thriller","Daniel Kaluuya,Allison Williams,Bradley Whitford","Just because you're invited, doesn't mean you're welcome.",Thriller seen from fresh eyes,85.0
+593,Gaetmaeul Chachacha,9.0,Shin Min-a,2021,",Comedy,Romance,Add content advisory","Lee Bong-ryun,Shin Min-a,Kim Seon-Ho",7,Best drama,0.0
+594,Escape Room: Tournament of Champions,5.8,Adam Robitel,2021,",Action,Adventure,Horror,Mystery,Sci-Fi,Thriller","Maria Melnik,Daniel Tuch,Taylor Russell",Not Rated,Easy Cash Grab with Poorly Written Characters,48.0
+595,Last Night in Soho,7.4,Edgar Wright,2021,",Drama,Horror,Mystery,Thriller","Krysty Wilson-Cairns,Anya Taylor-Joy,Thomasin McKenzie",Information Unavailable,Very Unique Movie,67.0
+596,Hawkeye,7.5,Jeremy Renner,2021,",Action,Adventure,Crime,Drama,Mystery,Sci-Fi,Add content advisory","Florence Pugh,Jeremy Renner,Hailee Steinfeld","This Holiday Season, The Best Gifts Come with a Bow.",np.nan,0.0
+597,Malèna,7.5,Giuseppe Tornatore,2000,",Comedy,Drama,Romance,War","Luciano Vincenzoni,Monica Bellucci,Giuseppe Sulfaro","An intimate portrait and an epic story of the courage we discover, the innocence we surrender, and the memories we cherish.....forever.",Viva Tornatore!,54.0
+598,Sex Education,8.3,Laurie Nunn,2019,",Comedy,Drama","Gillian Anderson,Emma Mackey,Laurie Nunn",Experience is overrated.,Fantastic All Around!,0.0
+599,The Many Saints of Newark,7.4,Alan Taylor,2021,",Crime,Drama","Lawrence Konner,Alessandro Nivola,Leslie Odom Jr.",A Sopranos Story,"Thoroughly enjoyed it but recommend rewatching episodes 'Down Neck', and 'For All Debts Public and Private' beforehand",66.0
+600,She's All That,5.9,Robert Iscove,1999,",Comedy,Romance","Freddie Prinze Jr.,Rachael Leigh Cook,Matthew Lillard",A new comedy that proves there's more to attraction than meets the eye.,Moments in Time,51.0
+601,The Addams Family 2,7.5,Greg Tiernan,2021,",Animation,Adventure,Comedy,Family,Fantasy,Horror,Add content advisory","Laura Brousseau,Dan Hernandez,Benji Samit",A sequel. How original.,np.nan,0.0
+602,How I Met Your Mother,8.3,Carter Bays,2005,",Comedy,Romance","Josh Radnor,Jason Segel,Cobie Smulders",A love story in reverse.,Good laugh for late twenty-somethings,0.0
+603,The Boys,8.7,Eric Kripke,2019,",Action,Crime,Drama,Sci-Fi","Jack Quaid,Antony Starr,Eric Kripke",Never Meet Your Heroes,"Just... Wow. Dark, funny and gripping.",0.0
+604,WandaVision,8.0,Jac Schaeffer,2021,",Action,Comedy,Drama,Fantasy,Sci-Fi","Paul Bettany,Kathryn Hahn,Jac Schaeffer",Marvel Studios presents a visionary new age of television.,A great show!,0.0
+605,Sex and the City,7.2,Darren Star,1998,",Comedy,Drama,Romance","Kim Cattrall,Kristin Davis,Darren Star",The next best thing to being there.,"Great, honest, and funny show",0.0
+606,The Wheel of Time,7.5,Rafe Judkins,2021,",Action,Adventure,Drama,Fantasy,Add content advisory","Josha Stradowski,Marcus Rutherford,Rafe Judkins",Information Unavailable,np.nan,0.0
+607,Only Murders in the Building,8.3,John Hoffman,2021,",Comedy,Crime,Drama,Mystery,Thriller","Steve Martin,Martin Short,Selena Gomez",Every Body Has a Secret,"Witty, fun and Selena Gomez really shines surprisingly!",0.0
+608,Smallville,7.5,Alfred Gough,2001,",Adventure,Drama,Romance,Sci-Fi","Tom Welling,Michael Rosenbaum,Allison Mack","His journey, their battle, our future.",Super.,0.0
+609,Ich bin dein Mensch,7.3,Maria Schrader,2021,",Comedy,Romance,Sci-Fi","Maria Schrader,Emma Braslavsky,Maren Eggert",Rated R for some sexual content and language,Humorous and Emotional Delight,77.0
+610,The Card Counter,6.4,Paul Schrader,2021,",Action,Crime,Drama,Thriller","Oscar Isaac,Tiffany Haddish,Tye Sheridan",He's Playing the Hand He Was Dealt,Directionless,79.0
+611,Grey's Anatomy,7.5,Shonda Rhimes,2005,",Drama,Romance","Chandra Wilson,James Pickens Jr.,Shonda Rhimes",Operations. Relations. Complications.,Life Support,0.0
+612,The Witcher,8.2,Lauren Schmidt,2019,",Action,Adventure,Fantasy,Mystery","Anna Shaffer,Freya Allan,Lauren Schmidt",The worst monsters are the ones we create.,Henry Cavill was terrific!,0.0
+613,American Dad!,7.3,Mike Barker,2005,",Animation,Comedy","Matt Weitzman,Seth MacFarlane,Wendy Schaal","From the creator of ""Family Guy"" comes a man who will stop at nothing to protect his country.",Wasn't expecting too much. I underestimated this show.,0.0
+614,Free Guy,7.5,Shawn Levy,2021,",Action,Adventure,Comedy,Fantasy,Sci-Fi","Zak Penn,Ryan Reynolds,Jodie Comer",The world needed a hero. They got a guy.,Fun but not great,62.0
+615,Free Guy,7.5,Shawn Levy,2021,",Action,Adventure,Comedy,Fantasy,Sci-Fi","Zak Penn,Ryan Reynolds,Jodie Comer",The world needed a hero. They got a guy.,Fun but not great,62.0
+616,Zombieland: Double Tap,6.7,Ruben Fleischer,2019,",Action,Comedy,Horror","Paul Wernick,Dave Callaham,Woody Harrelson",A,Still enjoying the little things...,55.0
+617,Black Widow,6.8,Cate Shortland,2021,",Action,Adventure,Sci-Fi","Jac Schaeffer,Ned Benson,Scarlett Johansson",She's Done Running From Her Past.,MCU Version of a Filler Episode,67.0
+618,He's All That,4.3,Mark Waters,2021,",Comedy,Romance","Addison Rae,Tanner Buchanan,Madison Pettis",It's His Turn for a Makeover.,Rachael Leigh Cook was under utilized and she wasn't even Laney Boggs.,36.0
+619,Gunpowder Milkshake,6.0,Navot Papushado,2021,",Action,Crime,Thriller","Ehud Lavski,Karen Gillan,Lena Headey",A,Female John Wick,47.0
+620,Only Murders in the Building,8.3,John Hoffman,2021,",Comedy,Crime,Drama,Mystery,Thriller","Steve Martin,Martin Short,Selena Gomez",Every Body Has a Secret,"Witty, fun and Selena Gomez really shines surprisingly!",0.0
+621,Good Girls,7.8,Jenna Bans,2018,",Comedy,Crime,Drama","Retta,Mae Whitman,Jenna Bans",Done Playing Nice,Surprised that I'm addicted,0.0
+622,Jungle Cruise,6.6,Jaume Collet-Serra,2021,",Action,Adventure,Comedy,Fantasy","Glenn Ficarra,John Requa,Dwayne Johnson",UA,jungle ride,50.0
+623,Prisoners of the Ghostland,4.4,Sion Sono,2021,",Action,Horror,Sci-Fi,Thriller","Reza Sixo Safai,Nicolas Cage,Sofia Boutella",Information Unavailable,When you're on laced shrooms and bad LSD at a Burning Man festival in a Japanese desert.,52.0
+624,Don't Worry Darling,7.5,Olivia Wilde,2022,",Crime,Drama,Horror,Mystery,Thriller,Add content advisory","Carey Van Dyke,Shane Van Dyke,Florence Pugh",Information Unavailable,np.nan,0.0
+625,The Falcon and the Winter Soldier,7.3,Malcolm Spellman,2021,",Action,Adventure,Drama,Sci-Fi","Sebastian Stan,Wyatt Russell,Malcolm Spellman",12+,"Half way through and it's...NAWT GOOD. Sorry Marvel, you need to try more!",0.0
+626,Outer Banks,7.6,Shannon Burke,2020,",Action,Crime,Drama,Mystery,Romance,Thriller","Josh Pate,Chase Stokes,Madelyn Cline",Be Careful What You Search For,Pretty Decent,0.0
+627,Dune,6.4,David Lynch,1984,",Action,Adventure,Sci-Fi","David Lynch,Kyle MacLachlan,Virginia Madsen","It is a world where sandworms 1,000 feet long guard creation's greatest treasure - the spice that prolongs life. And enables the mind to fold space and slow time. Where a prophecy will be fulfilled. And a young leader with incredible powers will emerge to command an army of five million warriors in the final battle for control of a universe and its source of ultimate power. The planet called Dune.",Outland Empire,39.0
+628,It's Always Sunny in Philadelphia,8.8,Glenn Howerton,2005,",Comedy","Charlie Day,Glenn Howerton,Rob McElhenney",Good [Crossed Out]. Clean [Crossed Out]. Fun.,Hilarious!,0.0
+629,Prey,4.2,Thomas Sieben,2021,",Adventure,Drama,Thriller","David Kross,Hanno Koffler,Maria Ehrich",18,The Acting Was Good...,0.0
+630,Loki,8.4,Michael Waldron,2021,",Action,Adventure,Fantasy,Sci-Fi","Owen Wilson,Gugu Mbatha-Raw,Michael Waldron",12+,Tom Hiddleston is great but the show fails to impress...,0.0
+631,The Umbrella Academy,8.0,Steve Blackman,2019,",Action,Adventure,Comedy,Drama,Fantasy,Sci-Fi","Elliot Page,Tom Hopper,David Castañeda",Super Strong,Masterclass on how to use music in movies,0.0
+632,Ron's Gone Wrong,6.0,Sarah Smith,2021,",Animation,Adventure,Comedy,Family,Sci-Fi,Add content advisory","Octavio E. Rodriguez,Peter Baynham,Chad Gomez Creasey","Rated PG for some rude material, thematic elements and language",np.nan,0.0
+633,NCIS: Naval Criminal Investigative Service,7.7,Donald P. Bellisario,2003,",Action,Crime,Drama,Mystery,Thriller","Mark Harmon,David McCallum,Sean Murray",16,So sad a wonderful show is sinking,0.0
+634,Midsomer Murders,7.7,Caroline Graham,1997,",Crime,Drama,Mystery","Jane Wymark,Barry Jackson,Caroline Graham",The deadliest county in England.,Excellent,0.0
+635,Soul,8.1,Pete Docter,2020,",Animation,Adventure,Comedy,Drama,Family,Fantasy,Music","Pete Docter,Mike Jones,Kemp Powers",Everybody has a soul. Joe Gardner is about to find his.,Loved it almost to tears (and I'm a big man with a beard),83.0
+636,The Simpsons,8.6,James L. Brooks,1989,",Animation,Comedy","Sam Simon,Dan Castellaneta,Nancy Cartwright","On Your Marks, Get Set, D'Oh!",No longer that great,0.0
+637,One Piece: Wan pîsu,8.8,Eiichiro Oda,1999,",Animation,Action,Adventure,Comedy,Drama,Fantasy","Tony Beck,Laurent Vernin,Eiichiro Oda",Set sail for One Piece!,best anime ever,0.0
+638,Afterlife of the Party,5.8,Stephen Herek,2021,",Comedy,Drama,Fantasy,Romance","Victoria Justice,Midori Francis,Robyn Scott",She's got one more chance to fix the life she left in pieces.,Hope,0.0
+639,Forrest Gump,8.8,Robert Zemeckis,1994,",Drama,Romance","Eric Roth,Tom Hanks,Robin Wright",The story of a lifetime.,"In my opinion, no film has touched me more than this one.....",82.0
+640,Kate,6.3,Cedric Nicolas-Troyan,2021,",Action,Adventure,Crime,Drama,Thriller","Mary Elizabeth Winstead,Woody Harrelson,Miku Patricia Martineau",There's No Time For Mercy,Everything new is old again,47.0
+641,Demon Slayer: Kimetsu No Yaiba,8.7,Natsuki Hanae,2019,",Animation,Action,Adventure,Fantasy,Horror,Thriller","Abby Trott,Natsuki Hanae,Zach Aguilar",16,Kimetsu No Yaiba,0.0
+642,Boku no hîrô akademia,8.4,Daiki Yamashita,2016,",Animation,Action,Adventure,Comedy,Fantasy,Sci-Fi","Ayane Sakura,Daiki Yamashita,Nobuhiko Okamoto",16,my hero academy is a masterpiece.,0.0
+643,Miraculous: Tales of Ladybug & Cat Noir,7.7,Cristina Valenzuela,2015,",Animation,Action,Adventure,Family,Fantasy,Romance","Keith Silverstein,Cristina Valenzuela,Bryce Papenbrook",Time to de-evilize!,There better be more,0.0
+644,Raya and the Last Dragon,7.4,Don Hall,2021,",Animation,Action,Adventure,Comedy,Family,Fantasy","Paul Briggs,Qui Nguyen,Adele Lim",U,All this hate ... why?,75.0
+645,F9,5.2,Justin Lin,2021,",Action,Adventure,Crime,Thriller","Justin Lin,Alfredo Botello,Vin Diesel",Fast Family Forever,Stop.,58.0
+646,The Office,8.9,Greg Daniels,2005,",Comedy","Stephen Merchant,Steve Carell,Jenna Fischer",A comedy for anyone whose boss is an idiot.,The Office- The Best,0.0
+647,Harry Potter and the Sorcerer's Stone,7.6,Chris Columbus,2001,",Adventure,Family,Fantasy","Steve Kloves,Daniel Radcliffe,Rupert Grint",Let The Magic Begin.,...Welcome to magic world,64.0
+648,On the Verge,6.5,Julie Delpy,2021,",Comedy","Elisabeth Shue,Sarah Jones,Julie Delpy",16,"Very funny, very real depiction of life in your 40s",0.0
+649,Hitman's Wife's Bodyguard,6.1,Patrick Hughes,2021,",Action,Comedy,Crime,Thriller","Phillip Murphy,Brandon Murphy,Ryan Reynolds",Killer threesome.,Not nearly as good as the first one,32.0
+650,Lost,8.3,J.J. Abrams,2004,",Adventure,Drama,Fantasy,Mystery,Sci-Fi,Thriller","Damon Lindelof,Jorge Garcia,Josh Holloway",They're not the survivors they think they are. (Season Two),"Don't get turned off by the length, this is the perfect show.",0.0
+651,This Is Us,8.7,Dan Fogelman,2016,",Comedy,Drama,Romance","Mandy Moore,Sterling K. Brown,Dan Fogelman",This is real. This is love. This is life.,Season 5 - Crash and burn,0.0
+652,Peaky Blinders,8.8,Steven Knight,2013,",Crime,Drama","Paul Anderson,Helen McCrory,Steven Knight",The streets are theirs.,My opinion,0.0
+653,An Unfinished Life,7.0,Lasse Hallström,2005,",Drama,Family,Romance","Virginia Korus Spragg,Jennifer Lopez,Robert Redford",every secret takes on a life of its own,"Redford's legacy continues as an observer of ""ordinary people""",49.0
+654,Supergirl,6.2,Ali Adler,2015,",Action,Adventure,Drama,Sci-Fi","Andrew Kreisberg,Melissa Benoist,Chyler Leigh",It's not a bird. It's not a plane. It's not a man. It's Supergirl. (season 1),Recapturing our youth,0.0
+655,The White Lotus,7.7,Mike White,2021,",Comedy,Drama","Connie Britton,Jennifer Coolidge,Mike White",18,New Genre: CRINGE,0.0
+656,The Guilty,6.2,Antoine Fuqua,2021,",Crime,Drama,Thriller","Gustav Möller,Emil Nygaard Albertsen,Jake Gyllenhaal",Listen. Carefully.,Very unconvincing.,67.0
+657,The Flash,7.6,Greg Berlanti,2014,",Action,Adventure,Drama,Sci-Fi","Andrew Kreisberg,Grant Gustin,Candice Patton",Discover what makes a hero (Season 1),Excellent start but fades away..,0.0
+658,The Guilty,6.2,Antoine Fuqua,2021,",Crime,Drama,Thriller","Gustav Möller,Emil Nygaard Albertsen,Jake Gyllenhaal",Listen. Carefully.,Very unconvincing.,67.0
+659,Y: The Last Man,6.5,Diane Lane,2021,",Action,Adventure,Drama,Sci-Fi","Ben Schnetzer,Diane Lane,Ashley Romans",TV-14,They don't know how to make a show,0.0
+660,Supernatural,8.4,Eric Kripke,2005,",Drama,Fantasy,Horror,Mystery,Thriller","Jensen Ackles,Jim Beaver,Eric Kripke",Fear is a luxury,"I'm not a shipper , I'm only an old loyal spn fan, I loved team free will with all my being and",0.0
+661,Annette,6.4,Leos Carax,2021,",Drama,Musical,Romance","Russell Mael,Adam Driver,Marion Cotillard","Rated R for sexual content including some nudity, and for language",Is it a movie or a bizzare modern opera?,67.0
+662,Buffy the Vampire Slayer,8.2,Joss Whedon,1997,",Action,Drama,Fantasy,Romance","Nicholas Brendon,Alyson Hannigan,Joss Whedon",Divided by destiny. Bound by love.,Overview of BtVS,0.0
+663,Zombieland: Double Tap,6.7,Ruben Fleischer,2019,",Action,Comedy,Horror","Paul Wernick,Dave Callaham,Woody Harrelson",A,Still enjoying the little things...,55.0
+664,No Time to Die,7.5,Cary Joji Fukunaga,2021,",Action,Adventure,Thriller,Add content advisory","Robert Wade,Cary Joji Fukunaga,Daniel Craig",Bond is Back,np.nan,0.0
+665,Modern Love,8.0,Anne Hathaway,2019,",Comedy,Romance","Andy Garcia,Anne Hathaway,Tina Fey",16,The opposite of Black Mirror,0.0
+666,Last Night in Soho,7.4,Edgar Wright,2021,",Drama,Horror,Mystery,Thriller","Krysty Wilson-Cairns,Anya Taylor-Joy,Thomasin McKenzie",Information Unavailable,Very Unique Movie,67.0
+667,Shang-Chi and the Legend of the Ten Rings,7.9,Destin Daniel Cretton,2021,",Action,Adventure,Fantasy,Sci-Fi","Destin Daniel Cretton,Andrew Lanham,Simu Liu",A Marvel legend will rise.,Best non-avengers MCU movie,71.0
+668,Black Widow,6.8,Cate Shortland,2021,",Action,Adventure,Sci-Fi","Jac Schaeffer,Ned Benson,Scarlett Johansson",She's Done Running From Her Past.,MCU Version of a Filler Episode,67.0
+669,Shingeki no kyojin,9.0,Yûki Kaji,2013,",Animation,Action,Adventure,Drama,Fantasy,Horror","Josh Grelle,Yûki Kaji,Marina Inoue",The face of humanity's extinction. (season 1),Legendary show.,0.0
+670,The Witcher: Nightmare of the Wolf,7.3,Kwang Il Han,2021,",Animation,Action,Adventure,Drama,Fantasy,Mystery","Andrzej Sapkowski,Theo James,Mary McDonnell",Face Your Demons,"A Stunning ""prequel"" to a beloved saga.",67.0
+671,Archer,8.6,Adam Reed,2009,",Animation,Action,Comedy","Judy Greer,Amber Nash,Adam Reed",Espionage never tasted so salty. (season 1),Ultimate Television Entertainment!,0.0
+672,Hunter x Hunter,9.0,Yoshihiro Togashi,2011,",Animation,Action,Adventure,Comedy,Fantasy","Megumi Han,Cristina Valenzuela,Yoshihiro Togashi",16,An incredible work that now continues,0.0
+673,Afterlife of the Party,5.8,Stephen Herek,2021,",Comedy,Drama,Fantasy,Romance","Victoria Justice,Midori Francis,Robyn Scott",She's got one more chance to fix the life she left in pieces.,Hope,0.0
+674,Modern Love,8.0,Anne Hathaway,2019,",Comedy,Romance","Andy Garcia,Anne Hathaway,Tina Fey",16,The opposite of Black Mirror,0.0
+675,Q-Force,6.2,Gabe Liedman,2021,",Animation,Action,Adventure,Comedy,Crime,Fantasy,Sci-Fi","David Harbour,Patti Harrison,Gabe Liedman",A Queer and Present Danger,Legitimately funny and entertaining.,0.0
+676,Star Wars: The Clone Wars,8.3,George Lucas,2008,",Animation,Action,Adventure,Drama,Fantasy,Sci-Fi","Dee Bradley Baker,Matt Lanter,George Lucas",PG,"Different from the movies, but definitely has potential",0.0
+677,Cruella,7.4,Craig Gillespie,2021,",Adventure,Comedy,Crime,Drama","Tony McNamara,Aline Brosh McKenna,Emma Stone",Hello cruel world.,You're so dark are you sure you're not from the DC Universe,59.0
+678,Q-Force,6.2,Gabe Liedman,2021,",Animation,Action,Adventure,Comedy,Crime,Fantasy,Sci-Fi","David Harbour,Patti Harrison,Gabe Liedman",A Queer and Present Danger,Legitimately funny and entertaining.,0.0
+679,Kate,6.3,Cedric Nicolas-Troyan,2021,",Action,Adventure,Crime,Drama,Thriller","Mary Elizabeth Winstead,Woody Harrelson,Miku Patricia Martineau",There's No Time For Mercy,Everything new is old again,47.0
+680,What If...?,7.6,Jeffrey Wright,2021,",Animation,Action,Adventure,Fantasy","Matthew Wood,Jeffrey Wright,Terri Douglas",Enter the Multiverse of infinite possibilities,"Marvel, please take your cue from the original series!",0.0
+681,Eternals,7.5,Chloé Zhao,2021,",Action,Adventure,Drama,Fantasy,Sci-Fi,Add content advisory","Patrick Burleigh,Ryan Firpo,Gemma Chan",In the beginning...,np.nan,0.0
+682,Boruto: Naruto Next Generations,7.0,Yûko Sanpei,2017,",Animation,Action,Adventure,Comedy,Drama,Fantasy","Ryûichi Kijima,Yûko Sanpei,Kokoro Kikuchi",Not Rated,Wait for it,0.0
+683,La casa de papel,8.3,Álex Pina,2017,",Action,Crime,Mystery,Thriller","Álvaro Morte,Itziar Ituño,Álex Pina",16+,Pretty Entertaining!,0.0
+684,Manifest,7.1,Jeff Rake,2018,",Drama,Mystery,Sci-Fi,Thriller","Josh Dallas,J.R. Ramirez,Jeff Rake","In 2013, Flight 828 disappeared. Today, it came home.","Started out good, now it's a boring soap opera.",0.0
+685,Titans,7.6,Greg Berlanti,2018,",Action,Adventure,Crime,Drama,Fantasy,Sci-Fi","Geoff Johns,Brenton Thwaites,Anna Diop",Heroes Will Rise... ...Or Gotham Will Fall.,Better than the trailer suggests,0.0
+686,Once Upon a Time,7.7,Adam Horowitz,2011,",Adventure,Fantasy,Romance","Ginnifer Goodwin,Jennifer Morrison,Lana Parrilla",Magic is coming. (season 1),Don't watch all the seasons,0.0
+687,Supergirl,6.2,Ali Adler,2015,",Action,Adventure,Drama,Sci-Fi","Andrew Kreisberg,Melissa Benoist,Chyler Leigh",It's not a bird. It's not a plane. It's not a man. It's Supergirl. (season 1),Recapturing our youth,0.0
+688,The Blue Lagoon,5.8,Randal Kleiser,1980,",Adventure,Drama,Romance","Douglas Day Stewart,Brooke Shields,Christopher Atkins",A story of natural love.,"good movie, some moments of greatness",31.0
+689,Mom,7.2,Gemma Baker,2013,",Comedy,Drama,Romance","Chuck Lorre,Allison Janney,Anna Faris",16+,Allison Janney is a genius,0.0
+690,Deadpool 2,7.7,David Leitch,2018,",Action,Adventure,Comedy,Sci-Fi","Paul Wernick,Ryan Reynolds,Ryan Reynolds",Prepare for the second coming.,Good entertainemnet,66.0
+691,Archer,8.6,Adam Reed,2009,",Animation,Action,Comedy","Judy Greer,Amber Nash,Adam Reed",Espionage never tasted so salty. (season 1),Ultimate Television Entertainment!,0.0
+692,Only Murders in the Building,8.3,John Hoffman,2021,",Comedy,Crime,Drama,Mystery,Thriller","Steve Martin,Martin Short,Selena Gomez",Every Body Has a Secret,"Witty, fun and Selena Gomez really shines surprisingly!",0.0
+693,Venom,6.7,Ruben Fleischer,2018,",Action,Adventure,Sci-Fi","Scott Rosenberg,Kelly Marcel,Tom Hardy",Embrace your inner anti-hero.,Good movie. Good fun. Tom Hardy is in all the scenes.,35.0
+694,Britannia,6.8,Jez Butterworth,2017,",Action,Drama,Fantasy","James Richardson,David Morrissey,Eleanor Worthington-Cox",For the people.,A jolly good time,0.0
+695,Ocean's Eight,6.3,Gary Ross,2018,",Action,Comedy,Crime,Thriller","Olivia Milch,George Clayton Johnson,Sandra Bullock",Every con has its pros.,"It was just ""OK""",61.0
+696,True Detective,8.9,Nic Pizzolatto,2014,",Crime,Drama,Mystery,Thriller","Colin Farrell,Rachel McAdams,Nic Pizzolatto",Man is the cruelest animal. (Season 1),"Don't Listen to Me, or Anyone Else",0.0
+697,Eternals,7.5,Chloé Zhao,2021,",Action,Adventure,Drama,Fantasy,Sci-Fi,Add content advisory","Patrick Burleigh,Ryan Firpo,Gemma Chan",In the beginning...,np.nan,0.0
+698,Into the Night,7.1,Jason George,2020,",Drama,Sci-Fi,Thriller","Laurent Capelluto,Mehmet Kurtulus,Jason George",Journey Into Darkness,Pleasantly surprised.,0.0
+699,Cinderella,4.2,Kay Cannon,2021,",Adventure,Comedy,Family,Fantasy,Musical,Romance","Camila Cabello,Billy Porter,Nicholas Galitzine",The legend you know. The story you don't.,I tried to like it...,41.0
+700,Nightmare Alley,7.5,Guillermo del Toro,2021,",Action,Crime,Drama,Thriller,Add content advisory","Kim Morgan,William Lindsay Gresham,Bradley Cooper","Rated R for strong/bloody violence, some sexual content, nudity and language",np.nan,0.0
+701,Star Trek: The Next Generation,8.6,Gene Roddenberry,1987,",Action,Adventure,Mystery,Sci-Fi","Brent Spiner,Jonathan Frakes,Gene Roddenberry",New Stars. New Stories. New Worlds To Explore.,A wonderful series,0.0
+702,See,7.6,Steven Knight,2019,",Action,Drama,Sci-Fi","Sylvia Hoeks,Hera Hilmar,Steven Knight",16+,Fighting scenes,0.0
+703,Hotel Transylvania: Transformania,6.8,Derek Drymon,2021,",Animation,Adventure,Comedy,Family,Fantasy,Horror,Romance,Add content advisory","Amos Vernon,Nunzio Randazzo,Genndy Tartakovsky",Change Can Be Scary,np.nan,0.0
+704,Snake Eyes: G.I. Joe Origins,5.4,Robert Schwentke,2021,",Action,Adventure,Fantasy,Sci-Fi,Thriller","Joe Shrapnel,Anna Waterhouse,Henry Golding",A legendary warrior. His epic origin story.,NO MORE SHAKY CAM PLEASE!,43.0
+705,Nightmare Alley,7.5,Guillermo del Toro,2021,",Action,Crime,Drama,Thriller,Add content advisory","Kim Morgan,William Lindsay Gresham,Bradley Cooper","Rated R for strong/bloody violence, some sexual content, nudity and language",np.nan,0.0
+706,Superman and Lois,7.9,Greg Berlanti,2021,",Action,Adventure,Drama,Romance,Sci-Fi","Tyler Hoechlin,Elizabeth Tulloch,Jordan Elsass",Saving the world starts at home.,I genuinely hate CW...but,0.0
+707,Law & Order: Special Victims Unit,8.0,Dick Wolf,1999,",Crime,Drama,Mystery,Thriller","Christopher Meloni,Ice-T,Dick Wolf",Where Risks are Taken.,Stick a fork in it!,0.0
+708,The Lost Symbol,7.0,Jay Beattie,2021,",Action,Adventure,Drama,Mystery,Thriller,Add content advisory","Ashley Zukerman,Eddie Izzard,Valorie Curry",Information Unavailable,generic,0.0
+709,The O.C.,7.5,Josh Schwartz,2003,",Comedy,Drama,Romance","Adam Brody,Peter Gallagher,Josh Schwartz","The O.C. Orange County, It's where all the beautiful people live",A MUST SEE,0.0
+710,Cars,7.1,John Lasseter,2006,",Animation,Adventure,Comedy,Family,Sport","John Lasseter,Joe Ranft,Jorgen Klubien",Ahhh... it's got that new movie smell.,This movie is great,73.0
+711,Mr. Robot,8.5,Sam Esmail,2015,",Crime,Drama,Thriller","Christian Slater,Carly Chaikin,Sam Esmail",I'm crazy. This is crazy. I'm crazy. (Season 2),Best TV Show Ever Made,0.0
+712,The Morning Show,8.4,Jay Carson,2019,",Drama","Jennifer Aniston,Reese Witherspoon,Billy Crudup",The news is only half the story.,One of the best shows I've seen in years..,0.0
+713,Outer Banks,7.6,Shannon Burke,2020,",Action,Crime,Drama,Mystery,Romance,Thriller","Josh Pate,Chase Stokes,Madelyn Cline",Be Careful What You Search For,Pretty Decent,0.0
+714,Community,8.5,Dan Harmon,2009,",Comedy","Danny Pudi,Donald Glover,Dan Harmon",Mastering the B.S. degree at community college.,The closest to perfect an NBC sitcom can get.,0.0
+715,Riverdale,6.8,Roberto Aguirre-Sacasa,2017,",Crime,Drama,Mystery,Romance","Lili Reinhart,Camila Mendes,Roberto Aguirre-Sacasa",A Great Place to Get Away With It All,Don't take it too seriously,0.0
+716,The French Dispatch,7.2,Wes Anderson,2021,",Comedy,Drama,Romance","Jason Schwartzman,Roman Coppola,Timothée Chalamet","Rated R for graphic nudity, some sexual references and language",Boring Bill Murray,82.0
+717,Rick and Morty,9.2,Dan Harmon,2013,",Animation,Adventure,Comedy,Sci-Fi","Justin Roiland,Chris Parnell,Spencer Grammer","Science makes sense, family doesn't.",This show is excellent,0.0
+718,Vigil,7.5,Tom Edge,2021,",Crime,Drama,Mystery,Thriller","Rose Leslie,Paterson Joseph,Tom Edge","The deeper you go, the darker it gets.",Exciting new thriller with great potential,0.0
+719,Yellowstone,8.6,John Linson,2018,",Drama,Western","Luke Grimes,Kelly Reilly,John Linson",TV-MA,Incredible!,0.0
+720,Copshop,6.7,Joe Carnahan,2021,",Action,Crime,Thriller","Joe Carnahan,Mark Williams,Frank Grillo",Someone's Gotta Take The Hit,"Good Start Then Spiralled Down, Don't Bother!",61.0
+721,Malignant,6.3,James Wan,2021,",Crime,Horror,Mystery,Thriller","Ingrid Bisu,Akela Cooper,Annabelle Wallis",A new vision of terror.,80's horror is back! For better and for worse...,51.0
+722,Manifest,7.1,Jeff Rake,2018,",Drama,Mystery,Sci-Fi,Thriller","Josh Dallas,J.R. Ramirez,Jeff Rake","In 2013, Flight 828 disappeared. Today, it came home.","Started out good, now it's a boring soap opera.",0.0
+723,Star Wars: Visions,7.6,Adam Sietz,2021,",Animation,Action,Adventure,Fantasy,Sci-Fi","Jonathan Lipow,Adam Sietz,Marc Thompson",Rated PG for some violence.,"Unique and original, if not somewhat clichéd.",0.0
+724,Reminiscence,5.9,Lisa Joy,2021,",Mystery,Romance,Sci-Fi,Thriller","Hugh Jackman,Rebecca Ferguson,Thandiwe Newton",Don't Look Back,"Gentle Sci-fi Noir, respectful of the genre.",46.0
+725,Outer Banks,7.6,Shannon Burke,2020,",Action,Crime,Drama,Mystery,Romance,Thriller","Josh Pate,Chase Stokes,Madelyn Cline",Be Careful What You Search For,Pretty Decent,0.0
+726,The Suicide Squad,7.3,James Gunn,2021,",Action,Adventure,Comedy,Sci-Fi","Margot Robbie,Idris Elba,John Cena",They're dying to save the world.,This movie is way better than the 2016 version,72.0
+727,Vikings,8.5,Michael Hirst,2013,",Action,Adventure,Drama,History,Romance,War","Gustaf Skarsgård,Alexander Ludwig,Michael Hirst",The Storm Is Coming,Just finished this - I'm overwhelmed.,0.0
+728,Cobra Kai,8.6,Josh Heald,2018,",Action,Comedy,Drama,Sport","Hayden Schlossberg,Courtney Henggeler,Mary Mouser",The KARATE KID saga continues. (Season 1),"ITS SO GOOD, ITS UNBELIEVABLE",0.0
+729,Clickbait,7.3,Tony Ayres,2021,",Crime,Drama,Mystery,Thriller","Zoe Kazan,Betty Gabriel,Phoenix Raei",Father. Husband. Brother. Liar?,Went a little far trying to make the twists,0.0
+730,Guardians of the Galaxy,8.0,James Gunn,2014,",Action,Adventure,Comedy,Sci-Fi","Nicole Perlman,Dan Abnett,Chris Pratt",You're welcome.,Guardians of Galaxy,76.0
+731,The X Files,8.6,Chris Carter,1993,",Crime,Drama,Mystery,Sci-Fi,Thriller","Gillian Anderson,Mitch Pileggi,Chris Carter",Apology Is Policy,One of the best shows on television,0.0
+732,10 Things I Hate About You,7.3,Gil Junger,1999,",Comedy,Drama,Romance","Kirsten Smith,William Shakespeare,Heath Ledger",There are so many different ways to hate. Count them yourself.,Pretty good overall,70.0
+733,Adventure Time,8.6,Pendleton Ward,2010,",Animation,Action,Adventure,Comedy,Family,Fantasy,Sci-Fi","Jeremy Shada,Tom Kenny,Pendleton Ward",TV-PG,I love this show.,0.0
+734,Yesterday,6.8,Danny Boyle,2019,",Comedy,Fantasy,Music,Romance","Jack Barth,Himesh Patel,Lily James","Yesterday everyone knew the Beatles. Today, only Jack remembers their songs. He's about to become a very big deal.",Yesterday,55.0
+735,Luca,7.5,Enrico Casarosa,2021,",Animation,Adventure,Comedy,Family,Fantasy","Jesse Andrews,Simon Stephenson,Jacob Tremblay",PG,Refreshing Animated film,71.0
+736,Shang-Chi and the Legend of the Ten Rings,7.9,Destin Daniel Cretton,2021,",Action,Adventure,Fantasy,Sci-Fi","Destin Daniel Cretton,Andrew Lanham,Simu Liu",A Marvel legend will rise.,Absolute Banger!,71.0
+737,F9,5.2,Justin Lin,2021,",Action,Adventure,Crime,Thriller","Justin Lin,Alfredo Botello,Vin Diesel",Fast Family Forever,Stop.,58.0
+738,Doom Patrol,7.9,Jeremy Carver,2019,",Action,Adventure,Comedy,Drama,Mystery,Sci-Fi","Diane Guerrero,Matt Bomer,Jeremy Carver",TV-MA,Astonishingly good!,0.0
+739,The Batman,7.5,Matt Reeves,2022,",Action,Crime,Drama,Add content advisory","Bob Kane,Bill Finger,Andy Serkis",Information Unavailable,np.nan,0.0
+740,Cry Macho,5.9,Clint Eastwood,2021,",Drama,Thriller,Western","N. Richard Nash,Clint Eastwood,Dwight Yoakam",A story of being lost... and found.,Disappointing,60.0
+741,What We Do in the Shadows,8.5,Jemaine Clement,2016,",Comedy,Fantasy,Horror","Matt Berry,Natasia Demetriou,Jemaine Clement",15+,A work of comedic art!,0.0
+742,The Girl Next Door,6.7,Luke Greenfield,2004,",Comedy,Drama,Romance","Brent Goldberg,Stuart Blumberg,Emile Hirsch",Matt never saw her coming... but all his friends had!,Timothy Olyphant shines,47.0
+743,Kin,7.9,Ciaran Donnelly,2021,",Crime,Drama","Charlie Cox,Clare Dunne,Aidan Gillen",Information Unavailable,Damn good.,0.0
+744,Doctor Who,8.6,Sydney Newman,2005,",Adventure,Drama,Family,Mystery,Sci-Fi","Peter Capaldi,Pearl Mackie,Sydney Newman","When Two Worlds Collide, Anything Can Happen... (Series 3)",bad writing is killing a series I love,0.0
+745,News of the World,6.8,Paul Greengrass,2020,",Action,Adventure,Drama,Western","Luke Davies,Paulette Jiles,Tom Hanks",Find Where You Belong,Very Good,73.0
+746,Red Notice,7.5,Rawson Marshall Thurber,2021,",Action,Comedy,Crime,Thriller,Add content advisory","Ryan Reynolds,Dwayne Johnson,Gal Gadot",Information Unavailable,np.nan,0.0
+747,Cinderella,4.2,Kay Cannon,2021,",Adventure,Comedy,Family,Fantasy,Musical,Romance","Camila Cabello,Billy Porter,Nicholas Galitzine",The legend you know. The story you don't.,I tried to like it...,41.0
+748,Willy's Wonderland,5.5,Kevin Lewis,2021,",Action,Comedy,Horror,Thriller","Nicolas Cage,Emily Tosta,Beth Grant",Let playtime begin,Nic Cage dialed to 11,44.0
+749,He's All That,4.3,Mark Waters,2021,",Comedy,Romance","Addison Rae,Tanner Buchanan,Madison Pettis",It's His Turn for a Makeover.,Rachael Leigh Cook was under utilized and she wasn't even Laney Boggs.,36.0
